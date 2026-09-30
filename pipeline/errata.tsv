@@ -1,4 +1,15 @@
-id	from	to	reason	evidence
-E001	ἀναπείρους	ἀναπήρους	digitization-typo	η written ει; sense “maimed” = ἀναπήρους (Luke 14:13,21). Nestle 1904 ἀναπήρους; LSJ ἀναπήρος. Not Berean apparatus choice.
-E002	[και ἐν ταῖς χερσὶν]	[καὶ ἐν ταῖς χερσὶν]	accent	Mark 16:18. The bracketed clause wrote unaccented και for καὶ.
-E003	αυτοφώρῳ	αὐτοφώρῳ	breathing	John 8:4. αυτοφώρῳ has no breathing. The other αὐτός forms in this text use upsilon with psili (U+1F50).
+id	from	to	reason	evidence	scope	count
+E001	ἀναπείρους	ἀναπήρους	digitization-typo	η written ει; sense “maimed” = ἀναπήρους (Luke 14:13,21). Nestle 1904 ἀναπήρους; LSJ ἀναπήρος. Not Berean apparatus choice.		
+E002	[και ἐν ταῖς χερσὶν]	[καὶ ἐν ταῖς χερσὶν]	accent	Mark 16:18. The bracketed clause wrote unaccented και for καὶ.		
+E003	αυτοφώρῳ	αὐτοφώρῳ	breathing	John 8:4. αυτοφώρῳ has no breathing. The other αὐτός forms in this text use upsilon with psili (U+1F50).		
+E004	Δὲ	δὲ	capital	Postpositive δὲ is not capitalized. The article is already written in Mark 6:50, Luke 8:30, Luke 9:59, Luke 24:19, Acts 9:1, and Acts 22:28. Nestle 1904 writes δὲ.	reading	6
+E005	οκτὼ	ὀκτὼ	breathing	Luke 13:4. The number eight takes a smooth breathing; the grave stays because another word follows. Nestle 1904 ὀκτὼ. The compound note keeps the undertie.	all	2
+E006	οκτώ	ὀκτώ	breathing	Luke 13:11. δέκα ὀκτώ stands before a comma, so the acute stays. Nestle 1904 ὀκτώ. The compound note keeps the undertie.	all	2
+E007	Ο ΜΕΓΑΛΗ	Η ΜΕΓΑΛΗ	article	Revelation 17:5. μεγάλη is feminine, so the uncial article is Η. The same line already writes Η in ΜΗΤΗΡ. Nestle 1904 reads Η ΜΕΓΑΛΗ.	reading	1
+E008	Ο ΜΗΤΗΡ	Η ΜΗΤΗΡ	article	Revelation 17:5. μήτηρ is feminine, so the uncial article is Η. Nestle 1904 reads Η ΜΗΤΗΡ.	reading	1
+E009	τελείως, ἐλπίσατε	τελείως ἐλπίσατε	comma	1 Peter 1:13. τελείως modifies ἐλπίσατε. Nestle 1904 has no comma between them.	reading	1
+E010	θερισμόν ἤδη.	θερισμόν. ἤδη	punctuation	John 4:35. ἤδη opens the next sentence, which verse 36 continues. Nestle 1904 places the period before ἤδη.	reading	1
+E011	Ὁ θερίζων μισθὸν	ὁ θερίζων μισθὸν	capital	John 4:36. The sentence began at ἤδη, so the article is not a capital. Nestle 1904 reads ὁ θερίζων.	reading	1
+E012	εἰδωλόθυτόν τί ἐστιν, ἢ	εἰδωλόθυτόν τί ἐστιν; ἢ	punctuation	1 Corinthians 10:19. The two ὅτι clauses are parallel questions. This edition writes the question mark as ;. Nestle 1904 has the same break.	reading	1
+E013	Αναθεμα ΙΗΣΟΥΣ	ΑΝΑΘΕΜΑ ΙΗΣΟΥΣ	uncial	1 Corinthians 12:3. The cry is uncial, and ΙΗΣΟΥΣ is already in capitals. Nestle 1904 reads ΑΝΑΘΕΜΑ ΙΗΣΟΥΣ.	reading	1
+E014	Κυριος ΙΗΣΟΥΣ	ΚΥΡΙΟΣ ΙΗΣΟΥΣ	uncial	1 Corinthians 12:3. The same cry. Κυριος had neither an accent nor the capitals of ΙΗΣΟΥΣ. Nestle 1904 reads ΚΥΡΙΟΣ ΙΗΣΟΥΣ.	reading	1

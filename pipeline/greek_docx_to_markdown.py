@@ -362,21 +362,100 @@ def apply_compound_readings(text: str) -> str:
     return _replace_reading_lines(text, rules)
 
 
+def _apply_errata_rules(
+    text: str,
+    rules: list[tuple[str, str, str, int | None]],
+    *,
+    reading_only: bool,
+) -> str:
+    """Replace each rule. ``reading_only`` leaves footnote definitions unchanged."""
+    lines = text.split("\n")
+
+    def found(frm: str) -> int:
+        if reading_only:
+            return sum(line.count(frm) for line in lines if not line.startswith("[^"))
+        return text.count(frm)
+
+    for rule_id, frm, _to, count in rules:
+        hits = found(frm)
+        if count is None:
+            if hits == 0:
+                where = "reading" if reading_only else "text"
+                raise SystemExit(f"{rule_id} matched nothing in the {where}")
+        elif hits != count:
+            raise SystemExit(f"{rule_id} matched {hits}, expected {count}")
+    out: list[str] = []
+    for line in lines:
+        if not (reading_only and line.startswith("[^")):
+            for _rule_id, frm, to, _count in rules:
+                line = line.replace(frm, to)
+        out.append(line)
+    return "\n".join(out)
+
+
 def apply_berean_errata(text: str, errata_path: Path | None = None) -> str:
-    """Wrong letters, accents, and breathings in pipeline/errata.tsv."""
+    """Wrong letters, accents, and breathings in pipeline/errata.tsv.
+
+    ``scope`` is ``reading`` (footnote definitions keep the source spelling)
+    or ``all`` (the same misspelling in a generated note is corrected too).
+    ``count``, when set, is the required number of matches.
+    """
     path = errata_path or (SCRIPT_DIR / "errata.tsv")
     if not path.is_file():
         raise SystemExit(f"missing {path}")
-    rules: list[tuple[str, str, str]] = []
+    reading: list[tuple[str, str, str, int | None]] = []
+    whole: list[tuple[str, str, str, int | None]] = []
     with path.open(encoding="utf-8", newline="") as handle:
         for row in csv.DictReader(handle, delimiter="\t"):
             frm = (row.get("from") or "").strip()
             to = (row.get("to") or "").strip()
-            if frm:
-                rules.append((row.get("id") or frm, frm, to))
-    if not rules:
+            if not frm:
+                continue
+            scope = (row.get("scope") or "").strip() or "reading"
+            raw_count = (row.get("count") or "").strip()
+            count = int(raw_count) if raw_count else None
+            rule = (row.get("id") or frm, frm, to, count)
+            if scope == "reading":
+                reading.append(rule)
+            elif scope == "all":
+                whole.append(rule)
+            else:
+                raise SystemExit(f"{rule[0]} has unknown scope {scope}")
+    if not reading and not whole:
         raise SystemExit(f"no rules in {path}")
-    return _replace_reading_lines(text, rules)
+    if reading:
+        text = _apply_errata_rules(text, reading, reading_only=True)
+    if whole:
+        text = _apply_errata_rules(text, whole, reading_only=False)
+    return text
+
+
+def apply_clause_punctuation(text: str) -> str:
+    """Move two stops that separate a word from the clause that owns it.
+
+    John 7:26 prints λέγουσιν Μή‿ ποτε. ἀληθῶς. μή ποτε opens the question
+    ἀληθῶς ἔγνωσαν, so the period belongs after λέγουσιν. Nestle 1904 has
+    that period. The compound note still quotes Μή‿ ποτε.
+
+    Matthew 15:14 prints τυφλὸς· δὲ. δὲ is postpositive and cannot follow a
+    stop, so the stop belongs after τυφλῶν. Nestle 1904 has τυφλῶν· τυφλὸς
+    δὲ. This runs after NFC, which has mapped ano teleia to U+00B7.
+    """
+    john = re.compile(r"λέγουσιν Μή ποτε(\[\^[^\]]+\])\.")
+    matthew = re.compile(
+        r"τυφλῶν</span>(\[\^[^\]]+\])"
+        "<span style=\"color:#FF0000\"> τυφλὸς\u00b7 δὲ"
+    )
+    for label, pattern in (("John 7:26", john), ("Matthew 15:14", matthew)):
+        hits = len(pattern.findall(text))
+        if hits != 1:
+            raise SystemExit(f"{label} punctuation matched {hits}, expected 1")
+    text = john.sub(r"λέγουσιν. Μή ποτε\1", text)
+    text = matthew.sub(
+        r"τυφλῶν</span>\1" '<span style="color:#FF0000">\u00b7 τυφλὸς δὲ',
+        text,
+    )
+    return text
 
 
 def _is_greek_word_char(ch: str) -> bool:
@@ -884,6 +963,7 @@ class BGBConverter:
         result = hoist_markers_out_of_red(result)
         # After completeness: it still looks for U+0387, which NFC maps to U+00B7.
         result = nfc_outside_tags(result)
+        result = apply_clause_punctuation(result)
         return result.strip() + "\n"
 
 
