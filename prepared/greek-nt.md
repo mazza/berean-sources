@@ -240,8 +240,8 @@
 
 **25** Καὶ ἠκολούθησαν αὐτῷ ὄχλοι πολλοὶ ἀπὸ τῆς Γαλιλαίας καὶ Δεκαπόλεως[^Matthew_4_25_f] καὶ Ἱεροσολύμων καὶ Ἰουδαίας καὶ πέραν τοῦ Ἰορδάνου.
 
-[^Matthew_4_2_na]: The Berean Greek Bible marks a word-order variant here: τεσσεράκοντα ⇔ νύκτας.
-[^Matthew_4_6_nb]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Matthew_4_2_na]: BGB marks a word-order variant here: τεσσεράκοντα ⇔ νύκτας.
+[^Matthew_4_6_nb]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Matthew_4_4_a]: Deuteronomy 8:3
 [^Matthew_4_6_b]: Psalm 91:11,12
 [^Matthew_4_7_c]: Deuteronomy 6:16
@@ -340,7 +340,7 @@
 **47** <span style="color:#FF0000">καὶ ἐὰν ἀσπάσησθε τοὺς ἀδελφοὺς ὑμῶν μόνον, τί περισσὸν ποιεῖτε; οὐχὶ καὶ οἱ ἐθνικοὶ τὸ αὐτὸ ποιοῦσιν;</span>
 **48** <span style="color:#FF0000">Ἔσεσθε οὖν ὑμεῖς τέλειοι ὡς ὁ Πατὴρ ὑμῶν ὁ οὐράνιος τέλειός ἐστιν. </span>
 
-[^Matthew_5_25_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτέ.
+[^Matthew_5_25_na]: BGB marks a compound-word variant here: μή‿ ποτέ.
 [^Matthew_5_21_a]: Exodus 20:13; Deuteronomy 5:17
 [^Matthew_5_22_b]: BYZ and TR τῷ ἀδελφῷ αὐτοῦ εἰκῇ
 [^Matthew_5_22_c]: An Aramaic expression of contempt
@@ -422,7 +422,7 @@
 
 **34** <span style="color:#FF0000">Μὴ οὖν μεριμνήσητε εἰς τὴν αὔριον, ἡ γὰρ αὔριον μεριμνήσει ἑαυτῆς· ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς. </span>
 
-[^Matthew_6_1_na]: The Berean Greek Bible marks a compound-word variant here: μή¦γε.
+[^Matthew_6_1_na]: BGB marks a compound-word variant here: μή¦γε.
 [^Matthew_6_13_a]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^Matthew_6_19_b]: Or worm; also in verse 20
 [^Matthew_6_27_c]: Or a single cubit to his height; a cubit was about 18 inches or 45 centimeters
@@ -481,8 +481,8 @@
 **28** Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους, ἐξεπλήσσοντο οἱ ὄχλοι ἐπὶ τῇ διδαχῇ αὐτοῦ·
 **29** ἦν γὰρ διδάσκων αὐτοὺς ὡς ἐξουσίαν ἔχων, καὶ οὐχ ὡς οἱ γραμματεῖς αὐτῶν.
 
-[^Matthew_7_6_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
-[^Matthew_7_20_nb]: The Berean Greek Bible marks a compound-word variant here: ἄρα¦γε.
+[^Matthew_7_6_na]: BGB marks a compound-word variant here: μή‿ ποτε.
+[^Matthew_7_20_nb]: BGB marks a compound-word variant here: ἄρα¦γε.
 
 ## Matthew 8
 
@@ -639,8 +639,8 @@
 **37** Τότε λέγει τοῖς μαθηταῖς αὐτοῦ <span style="color:#FF0000">“Ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι· </span>
 **38** <span style="color:#FF0000">δεήθητε οὖν τοῦ Κυρίου τοῦ θερισμοῦ ὅπως ἐκβάλῃ ἐργάτας εἰς τὸν θερισμὸν αὐτοῦ.”</span>
 
-[^Matthew_9_4_na]: The Berean Greek Bible marks a compound-word variant here: Ἵνα‿ τί.
-[^Matthew_9_17_nb]: The Berean Greek Bible marks a compound-word variant here: μή¦γε.
+[^Matthew_9_4_na]: BGB marks a compound-word variant here: Ἵνα‿ τί.
+[^Matthew_9_17_nb]: BGB marks a compound-word variant here: μή¦γε.
 [^Matthew_9_13_a]: Hosea 6:6
 
 ## Matthew 10
@@ -788,7 +788,7 @@
 **29** <span style="color:#FF0000">ἄρατε τὸν ζυγόν μου ἐφ’ ὑμᾶς καὶ μάθετε ἀπ’ ἐμοῦ, ὅτι πραΰς εἰμι καὶ ταπεινὸς τῇ καρδίᾳ, καὶ εὑρήσετε ἀνάπαυσιν ταῖς ψυχαῖς ὑμῶν·</span>
 **30** <span style="color:#FF0000">ὁ γὰρ ζυγός μου χρηστὸς καὶ τὸ φορτίον μου ἐλαφρόν ἐστιν.” </span>
 
-[^Matthew_11_9_na]: The Berean Greek Bible marks a word-order variant here: προφήτην ⇔ ἰδεῖν.
+[^Matthew_11_9_na]: BGB marks a word-order variant here: προφήτην ⇔ ἰδεῖν.
 [^Matthew_11_5_a]: Leprosy was a term for several skin diseases. See Leviticus 13.
 [^Matthew_11_10_b]: Malachi 3:1
 [^Matthew_11_12_c]: Or has been forcefully advancing
@@ -1037,9 +1037,9 @@
 Ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς <span style="color:#FF0000">“Οὐκ ἔστιν προφήτης ἄτιμος εἰ μὴ ἐν τῇ πατρίδι καὶ ἐν τῇ οἰκίᾳ αὐτοῦ.”</span>
 **58** καὶ οὐκ ἐποίησεν ἐκεῖ δυνάμεις πολλὰς διὰ τὴν ἀπιστίαν αὐτῶν.
 
-[^Matthew_13_15_na]: The Berean Greek Bible marks a compound-word variant here: Μή‿ ποτε.
-[^Matthew_13_28_nb]: The Berean Greek Bible marks a word-order variant here: αὐτῷ ⇔ λέγουσιν.
-[^Matthew_13_29_nc]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Matthew_13_15_na]: BGB marks a compound-word variant here: Μή‿ ποτε.
+[^Matthew_13_28_nb]: BGB marks a word-order variant here: αὐτῷ ⇔ λέγουσιν.
+[^Matthew_13_29_nc]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Matthew_13_9_a]: BYZ and TR ὦτα ἀκούειν
 [^Matthew_13_15_b]: Isaiah 6:9,10
 [^Matthew_13_35_c]: Psalm 78:2
@@ -1112,8 +1112,8 @@
 **35** καὶ ἐπιγνόντες αὐτὸν οἱ ἄνδρες τοῦ τόπου ἐκείνου ἀπέστειλαν εἰς ὅλην τὴν περίχωρον ἐκείνην, καὶ προσήνεγκαν αὐτῷ πάντας τοὺς κακῶς ἔχοντας,
 **36** καὶ παρεκάλουν αὐτὸν ἵνα μόνον ἅψωνται τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ· καὶ ὅσοι ἥψαντο διεσώθησαν.
 
-[^Matthew_14_4_na]: The Berean Greek Bible marks a word-order variant here: «ὁ Ἰωάννης» ⇔ αὐτῷ.
-[^Matthew_14_27_nb]: The Berean Greek Bible marks a word-order variant here: «ὁ Ἰησοῦς» ⇔ αὐτοῖς.
+[^Matthew_14_4_na]: BGB marks a word-order variant here: «ὁ Ἰωάννης» ⇔ αὐτῷ.
+[^Matthew_14_27_nb]: BGB marks a word-order variant here: «ὁ Ἰησοῦς» ⇔ αὐτοῖς.
 [^Matthew_14_24_a]: Greek many stadia, a stadion was about 607 feet or 185 meters
 
 ## Matthew 15
@@ -1191,8 +1191,8 @@
 
 **39** Καὶ ἀπολύσας τοὺς ὄχλους ἐνέβη εἰς τὸ πλοῖον, καὶ ἦλθεν εἰς τὰ ὅρια Μαγαδάν.
 
-[^Matthew_15_30_na]: The Berean Greek Bible marks a word-order variant here: κυλλούς ⇔ τυφλούς.
-[^Matthew_15_32_nb]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Matthew_15_30_na]: BGB marks a word-order variant here: κυλλούς ⇔ τυφλούς.
+[^Matthew_15_32_nb]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Matthew_15_4_a]: Exodus 20:12; Deuteronomy 5:16
 [^Matthew_15_4_b]: Exodus 21:17; Leviticus 20:9
 [^Matthew_15_9_c]: Isaiah 29:13
@@ -1313,7 +1313,7 @@
 **26** Εἰπόντος δέ “Ἀπὸ τῶν ἀλλοτρίων,” ἔφη αὐτῷ ὁ Ἰησοῦς <span style="color:#FF0000">“Ἄραγε</span>[^Matthew_17_26_na]<span style="color:#FF0000"> ἐλεύθεροί εἰσιν οἱ υἱοί. </span>
 **27** <span style="color:#FF0000">ἵνα δὲ μὴ σκανδαλίσωμεν αὐτούς, πορευθεὶς εἰς θάλασσαν βάλε ἄγκιστρον καὶ τὸν ἀναβάντα πρῶτον ἰχθὺν ἆρον, καὶ ἀνοίξας τὸ στόμα αὐτοῦ εὑρήσεις στατῆρα·</span>[^Matthew_17_27_b]<span style="color:#FF0000"> ἐκεῖνον λαβὼν δὸς αὐτοῖς ἀντὶ ἐμοῦ καὶ σοῦ.”</span>
 
-[^Matthew_17_26_na]: The Berean Greek Bible marks a compound-word variant here: Ἄρα¦Γε.
+[^Matthew_17_26_na]: BGB marks a compound-word variant here: Ἄρα¦Γε.
 [^Matthew_17_20_a]: See Mark 9:29.
 [^Matthew_17_27_b]: Greek stater, a silver coin worth approximately one shekel
 
@@ -1384,8 +1384,8 @@
 
 **35** <span style="color:#FF0000">Οὕτως καὶ ὁ Πατήρ μου ὁ οὐράνιος ποιήσει ὑμῖν, ἐὰν μὴ ἀφῆτε ἕκαστος τῷ ἀδελφῷ αὐτοῦ ἀπὸ τῶν καρδιῶν ὑμῶν.” </span>
 
-[^Matthew_18_21_na]: The Berean Greek Bible marks a word-order variant here: «ὁ Πέτρος εἶπεν» ⇔ αὐτῷ.
-[^Matthew_18_24_nb]: The Berean Greek Bible marks a word-order variant here: εἷς ⇔ αὐτῷ.
+[^Matthew_18_21_na]: BGB marks a word-order variant here: «ὁ Πέτρος εἶπεν» ⇔ αὐτῷ.
+[^Matthew_18_24_nb]: BGB marks a word-order variant here: εἷς ⇔ αὐτῷ.
 [^Matthew_18_10_a]: See Luke 19:10.
 [^Matthew_18_15_b]: NE and WH do not include εἰς σὲ
 [^Matthew_18_16_c]: Deuteronomy 19:15
@@ -1452,8 +1452,8 @@
 **29** <span style="color:#FF0000">καὶ πᾶς ὅστις ἀφῆκεν οἰκίας ἢ ἀδελφοὺς ἢ ἀδελφὰς ἢ πατέρα ἢ μητέρα ‹ἢ γυναῖκα›</span>[^Matthew_19_29_e]<span style="color:#FF0000"> ἢ τέκνα ἢ ἀγροὺς ἕνεκεν τοῦ μου </span>[^Matthew_19_29_nb]<span style="color:#FF0000"> ὀνόματός, ἑκατονταπλασίονα λήμψεται καὶ ζωὴν αἰώνιον κληρονομήσει. </span>
 **30** <span style="color:#FF0000">Πολλοὶ δὲ ἔσονται πρῶτοι ἔσχατοι καὶ ἔσχατοι πρῶτοι.</span>
 
-[^Matthew_19_20_na]: The Berean Greek Bible marks a word-order variant here: Ταῦτα ⇔ πάντα.
-[^Matthew_19_29_nb]: The Berean Greek Bible marks a word-order variant here: μου ⇔ ὀνόματός.
+[^Matthew_19_20_na]: BGB marks a word-order variant here: Ταῦτα ⇔ πάντα.
+[^Matthew_19_29_nb]: BGB marks a word-order variant here: μου ⇔ ὀνόματός.
 [^Matthew_19_4_a]: Genesis 1:27
 [^Matthew_19_5_b]: Genesis 2:24
 [^Matthew_19_9_c]: SBL and BYZ include καὶ ὁ ἀπολελυμένην γαμήσας μοιχᾶται.
@@ -1532,9 +1532,9 @@
 
 **34** Σπλαγχνισθεὶς δὲ ὁ Ἰησοῦς ἥψατο τῶν ὀμμάτων αὐτῶν, καὶ εὐθέως ἀνέβλεψαν καὶ ἠκολούθησαν αὐτῷ.
 
-[^Matthew_20_12_na]: The Berean Greek Bible marks a word-order variant here: αὐτοὺς ⇔ ἡμῖν.
-[^Matthew_20_30_nb]: The Berean Greek Bible marks a word-order variant here: Κύριε ⇔ «ἐλέησον ἡμᾶς».
-[^Matthew_20_31_nc]: The Berean Greek Bible marks a word-order variant here: Κύριε ⇔ «ἐλέησον ἡμᾶς».
+[^Matthew_20_12_na]: BGB marks a word-order variant here: αὐτοὺς ⇔ ἡμῖν.
+[^Matthew_20_30_nb]: BGB marks a word-order variant here: Κύριε ⇔ «ἐλέησον ἡμᾶς».
+[^Matthew_20_31_nc]: BGB marks a word-order variant here: Κύριε ⇔ «ἐλέησον ἡμᾶς».
 [^Matthew_20_2_a]: A denarius was customarily a day's wage for a laborer
 [^Matthew_20_7_b]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^Matthew_20_16_c]: Also attested in BYZ/TR; many early MSS lack this clause.
@@ -1920,7 +1920,7 @@
 **50** <span style="color:#FF0000">ἥξει ὁ κύριος τοῦ δούλου ἐκείνου ἐν ἡμέρᾳ ᾗ οὐ προσδοκᾷ καὶ ἐν ὥρᾳ ᾗ οὐ γινώσκει,</span>
 **51** <span style="color:#FF0000">καὶ διχοτομήσει αὐτὸν καὶ τὸ μέρος αὐτοῦ μετὰ τῶν ὑποκριτῶν θήσει· ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων. </span>
 
-[^Matthew_24_40_na]: The Berean Greek Bible marks a word-order variant here: ἔσονται ⇔ δύο.
+[^Matthew_24_40_na]: BGB marks a word-order variant here: ἔσονται ⇔ δύο.
 [^Matthew_24_15_a]: Daniel 9:27; 11:31; 12:11
 [^Matthew_24_29_b]: Isaiah 13:10; 34:4; Joel 2:10
 [^Matthew_24_30_c]: See Daniel 7:13-14
@@ -2006,7 +2006,7 @@
 
 **46** <span style="color:#FF0000">Καὶ ἀπελεύσονται οὗτοι εἰς κόλασιν αἰώνιον, οἱ δὲ δίκαιοι εἰς ζωὴν αἰώνιον.” </span>
 
-[^Matthew_25_9_na]: The Berean Greek Bible marks a compound-word variant here: Μή¦Ποτε.
+[^Matthew_25_9_na]: BGB marks a compound-word variant here: Μή¦Ποτε.
 [^Matthew_25_13_a]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^Matthew_25_15_b]: A talent was worth about twenty years' wages for a laborer
 
@@ -2316,8 +2316,8 @@
 **65** Ἔφη αὐτοῖς ὁ Πιλᾶτος “Ἔχετε κουστωδίαν· ὑπάγετε ἀσφαλίσασθε ὡς οἴδατε.”
 **66** οἱ δὲ πορευθέντες ἠσφαλίσαντο τὸν τάφον σφραγίσαντες τὸν λίθον μετὰ τῆς κουστωδίας.
 
-[^Matthew_27_46_na]: The Berean Greek Bible marks a compound-word variant here: ἵνα‿ τί.
-[^Matthew_27_64_nb]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Matthew_27_46_na]: BGB marks a compound-word variant here: ἵνα‿ τί.
+[^Matthew_27_64_nb]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Matthew_27_10_a]: See Zechariah 11:12,13; Jeremiah 19:1-13; 32:6-9.
 [^Matthew_27_16_b]: SBL and NA, Ἰησοῦν Βαραββᾶν; also in verse 17.
 [^Matthew_27_24_c]: BYZ and TR τοῦ αἵματος τοῦ δικαίου τούτου
@@ -2519,7 +2519,7 @@
 **27** Καὶ ἔλεγεν αὐτοῖς <span style="color:#FF0000">“Τὸ σάββατον διὰ τὸν ἄνθρωπον ἐγένετο, καὶ οὐχ ὁ ἄνθρωπος διὰ τὸ σάββατον· </span>
 **28** <span style="color:#FF0000">ὥστε κύριός ἐστιν ὁ Υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου.”</span>
 
-[^Mark_2_10_na]: The Berean Greek Bible marks a word-order variant here: «ἀφιέναι ἁμαρτίας» ⇔ «ἐπὶ τῆς γῆς».
+[^Mark_2_10_na]: BGB marks a word-order variant here: «ἀφιέναι ἁμαρτίας» ⇔ «ἐπὶ τῆς γῆς».
 [^Mark_2_16_a]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^Mark_2_22_b]: Tischendorf and some other texts do not include ἀλλὰ οἶνον νέον εἰς ἀσκοὺς καινούς
 
@@ -2589,9 +2589,9 @@
 **34** καὶ περιβλεψάμενος τοὺς περὶ αὐτὸν κύκλῳ καθημένους λέγει <span style="color:#FF0000">“Ἴδε ἡ μήτηρ μου καὶ οἱ ἀδελφοί μου. </span>
 **35** <span style="color:#FF0000">ὃς ‹γὰρ› ἂν ποιήσῃ τὸ θέλημα τοῦ Θεοῦ, οὗτος ἀδελφός μου καὶ ἀδελφὴ καὶ μήτηρ ἐστίν.”</span>
 
-[^Mark_3_3_na]: The Berean Greek Bible marks a word-order variant here: «χεῖρα ἔχοντι» ⇔ ξηράν.
-[^Mark_3_4_nb]: The Berean Greek Bible marks a compound-word variant here: ἀγαθὸν¦ποιῆσαι.
-[^Mark_3_27_nc]: The Berean Greek Bible marks a word-order variant here: δύναται ⇔ οὐδεὶς.
+[^Mark_3_3_na]: BGB marks a word-order variant here: «χεῖρα ἔχοντι» ⇔ ξηράν.
+[^Mark_3_4_nb]: BGB marks a compound-word variant here: ἀγαθὸν¦ποιῆσαι.
+[^Mark_3_27_nc]: BGB marks a word-order variant here: δύναται ⇔ οὐδεὶς.
 [^Mark_3_32_a]: NE and NA include καὶ αἱ ἀδελφαί σου
 
 ## Mark 4
@@ -2680,7 +2680,7 @@
 
 **41** Καὶ ἐφοβήθησαν φόβον μέγαν, καὶ ἔλεγον πρὸς ἀλλήλους “Τίς ἄρα οὗτός ἐστιν, ὅτι καὶ ὁ ἄνεμος καὶ ἡ θάλασσα ὑπακούει αὐτῷ;”
 
-[^Mark_4_12_na]: The Berean Greek Bible marks a compound-word variant here: Μή‿ ποτε.
+[^Mark_4_12_na]: BGB marks a compound-word variant here: Μή‿ ποτε.
 [^Mark_4_12_a]: Isaiah 6:9,10
 
 ## Mark 5
@@ -2856,9 +2856,9 @@
 **55** περιέδραμον ὅλην τὴν χώραν ἐκείνην καὶ ἤρξαντο ἐπὶ τοῖς κραβάττοις τοὺς κακῶς ἔχοντας περιφέρειν, ὅπου ἤκουον ὅτι ἐστίν.
 **56** καὶ ὅπου ἂν εἰσεπορεύετο εἰς κώμας ἢ εἰς πόλεις ἢ εἰς ἀγροὺς, ἐν ταῖς ἀγοραῖς ἐτίθεσαν τοὺς ἀσθενοῦντας, καὶ παρεκάλουν αὐτὸν ἵνα κἂν τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ ἅψωνται· καὶ ὅσοι ἂν ἥψαντο αὐτοῦ ἐσῴζοντο.
 
-[^Mark_6_22_na]: The Berean Greek Bible marks a word-order variant here: «ὁ 〈δὲ〉 βασιλεὺς» ⇔ εἶπεν.
-[^Mark_6_23_nb]: The Berean Greek Bible marks a compound-word variant here: Ὅ¦τι.
-[^Mark_6_38_nc]: The Berean Greek Bible marks a word-order variant here: ἔχετε ⇔ ἄρτους.
+[^Mark_6_22_na]: BGB marks a word-order variant here: «ὁ 〈δὲ〉 βασιλεὺς» ⇔ εἶπεν.
+[^Mark_6_23_nb]: BGB marks a compound-word variant here: Ὅ¦τι.
+[^Mark_6_38_nc]: BGB marks a word-order variant here: ἔχετε ⇔ ἄρτους.
 [^Mark_6_11_a]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^Mark_6_37_b]: A denarius was customarily a day's wage for a laborer (see Matthew 20:2)
 
@@ -2931,8 +2931,8 @@
 **36** Καὶ διεστείλατο αὐτοῖς ἵνα μηδενὶ λέγωσιν· ὅσον δὲ αὐτοῖς διεστέλλετο, αὐτοὶ μᾶλλον περισσότερον ἐκήρυσσον.
 **37** καὶ ὑπερπερισσῶς ἐξεπλήσσοντο λέγοντες “Καλῶς πάντα πεποίηκεν, καὶ τοὺς κωφοὺς ποιεῖ ἀκούειν καὶ [τοὺς] ἀλάλους λαλεῖν.”
 
-[^Mark_7_27_na]: The Berean Greek Bible marks a word-order variant here: ἐστιν ⇔ καλόν.
-[^Mark_7_35_nb]: The Berean Greek Bible marks a word-order variant here: «ἠνοίγησαν αὐτοῦ αἱ ἀκοαί, καὶ» ⇔ εὐθὺς.
+[^Mark_7_27_na]: BGB marks a word-order variant here: ἐστιν ⇔ καλόν.
+[^Mark_7_35_nb]: BGB marks a word-order variant here: «ἠνοίγησαν αὐτοῦ αἱ ἀκοαί, καὶ» ⇔ εὐθὺς.
 [^Mark_7_4_a]: NE and WH do not include καὶ κλινῶν
 [^Mark_7_7_b]: Isaiah 29:13
 [^Mark_7_8_c]: Also attested in BYZ/TR; many early MSS lack this clause.
@@ -3126,7 +3126,7 @@
 **49** <span style="color:#FF0000">Πᾶς γὰρ πυρὶ ἁλισθήσεται. καὶ πᾶσα θυσία ἁλὶ ἁλισθήσεται.</span>[^Mark_9_49_f]
 **50** <span style="color:#FF0000">καλὸν τὸ ἅλας· ἐὰν δὲ τὸ ἅλας ἄναλον γένηται, ἐν τίνι αὐτὸ ἀρτύσετε; ἔχετε ἐν ἑαυτοῖς ἅλα καὶ εἰρηνεύετε ἐν ἀλλήλοις.” </span>
 
-[^Mark_9_1_na]: The Berean Greek Bible marks a word-order variant here: ὧδε ⇔ τῶν.
+[^Mark_9_1_na]: BGB marks a word-order variant here: ὧδε ⇔ τῶν.
 [^Mark_9_24_a]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^Mark_9_29_b]: BYZ and TR προσευχῇ καὶ νηστείᾳ
 [^Mark_9_43_c]: See Isaiah 66:24, Mark 9:48.
@@ -3492,7 +3492,7 @@
 **36** <span style="color:#FF0000">μὴ ἐλθὼν ἐξαίφνης εὕρῃ ὑμᾶς καθεύδοντας.</span>
 **37** <span style="color:#FF0000">ὃ δὲ ὑμῖν λέγω, πᾶσιν λέγω, γρηγορεῖτε.” </span>
 
-[^Mark_13_15_na]: The Berean Greek Bible marks a word-order variant here: τι ⇔ ἆραι.
+[^Mark_13_15_na]: BGB marks a word-order variant here: τι ⇔ ἆραι.
 [^Mark_13_14_a]: Daniel 9:27; 11:31; 12:11. Also attested in BYZ/TR; many early MSS lack this clause.
 [^Mark_13_14_b]: Or he should
 [^Mark_13_25_c]: Isaiah 13:10; 34:4
@@ -3646,8 +3646,8 @@
 
 Καὶ ἀνεμνήσθη ὁ Πέτρος τὸ ῥῆμα ὡς εἶπεν αὐτῷ ὁ Ἰησοῦς ὅτι <span style="color:#FF0000">“Πρὶν ἀλέκτορα δὶς </span>[^Mark_14_72_nb]<span style="color:#FF0000"> φωνῆσαι τρίς με ἀπαρνήσῃ·”</span> καὶ ἐπιβαλὼν ἔκλαιεν.
 
-[^Mark_14_2_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
-[^Mark_14_72_nb]: The Berean Greek Bible marks a word-order variant here: δὶς ⇔ φωνῆσαι.
+[^Mark_14_2_na]: BGB marks a compound-word variant here: μή‿ ποτε.
+[^Mark_14_72_nb]: BGB marks a word-order variant here: δὶς ⇔ φωνῆσαι.
 [^Mark_14_3_a]: Leprosy was a term for several skin diseases. See Leviticus 13.
 [^Mark_14_5_b]: A denarius was customarily a day's wage for a laborer (see Matthew 20:2)
 [^Mark_14_7_c]: See Deuteronomy 15:11
@@ -4145,7 +4145,7 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;**38** τοῦ Ἐνὼς τοῦ Σὴθ τοῦ Ἀδὰμ<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;τοῦ Θεοῦ.<br>
 
-[^Luke_3_15_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Luke_3_15_na]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Luke_3_6_a]: Isaiah 40:3-5
 [^Luke_3_16_b]: Or in water
 [^Luke_3_16_c]: Or in the Holy Spirit and in fire
@@ -4246,8 +4246,8 @@
 
 **44** Καὶ ἦν κηρύσσων εἰς τὰς συναγωγὰς τῆς Ἰουδαίας.[^Luke_4_44_h]
 
-[^Luke_4_8_na]: The Berean Greek Bible marks a word-order variant here: Προσκυνήσεις ⇔ «Κύριον τὸν Θεόν σου».
-[^Luke_4_11_nb]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Luke_4_8_na]: BGB marks a word-order variant here: Προσκυνήσεις ⇔ «Κύριον τὸν Θεόν σου».
+[^Luke_4_11_nb]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Luke_4_4_a]: Deuteronomy 8:3. Also attested in BYZ/TR; many early MSS lack this clause.
 [^Luke_4_8_b]: Deuteronomy 6:13
 [^Luke_4_11_c]: Psalm 91:11,12
@@ -4333,9 +4333,9 @@
 **38** <span style="color:#FF0000">ἀλλὰ οἶνον νέον εἰς ἀσκοὺς καινοὺς βλητέον.</span>
 **39** <span style="color:#FF0000">καὶ οὐδεὶς πιὼν παλαιὸν θέλει νέον· λέγει γάρ ‘Ὁ παλαιὸς χρηστός ἐστιν.’” </span>
 
-[^Luke_5_2_na]: The Berean Greek Bible marks a word-order variant here: πλοῖα ⇔ δύο.
-[^Luke_5_36_nb]: The Berean Greek Bible marks a compound-word variant here: μή¦γε.
-[^Luke_5_37_nc]: The Berean Greek Bible marks a compound-word variant here: μή¦γε.
+[^Luke_5_2_na]: BGB marks a word-order variant here: πλοῖα ⇔ δύο.
+[^Luke_5_36_nb]: BGB marks a compound-word variant here: μή¦γε.
+[^Luke_5_37_nc]: BGB marks a compound-word variant here: μή¦γε.
 [^Luke_5_1_a]: That is, the Sea of Galilee
 [^Luke_5_12_b]: Leprosy was a term for several skin diseases. See Leviticus 13.
 
@@ -4439,7 +4439,7 @@
 **48** <span style="color:#FF0000">ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν, ὃς ἔσκαψεν καὶ ἐβάθυνεν καὶ ἔθηκεν θεμέλιον ἐπὶ τὴν πέτραν· πλημμύρης δὲ γενομένης προσέρηξεν ὁ ποταμὸς τῇ οἰκίᾳ ἐκείνῃ, καὶ οὐκ ἴσχυσεν σαλεῦσαι αὐτὴν διὰ τὸ καλῶς οἰκοδομῆσθαι αὐτήν.</span>[^Luke_6_48_b]
 **49** <span style="color:#FF0000">ὁ δὲ ἀκούσας καὶ μὴ ποιήσας ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομήσαντι οἰκίαν ἐπὶ τὴν γῆν χωρὶς θεμελίου, ᾗ προσέρηξεν ὁ ποταμός, καὶ εὐθὺς συνέπεσεν, καὶ ἐγένετο τὸ ῥῆγμα τῆς οἰκίας ἐκείνης μέγα.” </span>
 
-[^Luke_6_26_na]: The Berean Greek Bible marks a word-order variant here: καλῶς ⇔ ὑμᾶς.
+[^Luke_6_26_na]: BGB marks a word-order variant here: καλῶς ⇔ ὑμᾶς.
 [^Luke_6_1_a]: BYZ and TR, σαββάτῳ δευτεροπρώτῳ
 [^Luke_6_48_b]: BYZ and TR τεθεμελίωτο γὰρ ἐπὶ τὴν πέτραν
 
@@ -4666,7 +4666,7 @@
 **55** καὶ ἐπέστρεψεν τὸ πνεῦμα αὐτῆς, καὶ ἀνέστη παραχρῆμα, καὶ διέταξεν αὐτῇ δοθῆναι φαγεῖν.
 **56** καὶ ἐξέστησαν οἱ γονεῖς αὐτῆς· ὁ δὲ παρήγγειλεν αὐτοῖς μηδενὶ εἰπεῖν τὸ γεγονός.
 
-[^Luke_8_20_na]: The Berean Greek Bible marks a word-order variant here: θέλοντές ⇔ σε.
+[^Luke_8_20_na]: BGB marks a word-order variant here: θέλοντές ⇔ σε.
 [^Luke_8_3_a]: TR αὐτῷ
 [^Luke_8_10_b]: Isaiah 6:9
 [^Luke_8_26_c]: BYZ and TR Γαδαρηνῶν; also verse 37
@@ -4804,9 +4804,9 @@
 
 **62** Εἶπεν δὲ πρὸς αὐτὸν ὁ Ἰησοῦς <span style="color:#FF0000">“Οὐδεὶς ἐπιβαλὼν τὴν χεῖρα ἐπ’ ἄροτρον καὶ βλέπων εἰς τὰ ὀπίσω εὔθετός ἐστιν τῇ βασιλείᾳ τοῦ Θεοῦ.”</span>
 
-[^Luke_9_13_na]: The Berean Greek Bible marks a word-order variant here: φαγεῖν ⇔ ὑμεῖς.
-[^Luke_9_18_nb]: The Berean Greek Bible marks a word-order variant here: «οἱ ὄχλοι» ⇔ λέγουσιν.
-[^Luke_9_59_nc]: The Berean Greek Bible marks a word-order variant here: πρῶτον ⇔ ἀπελθόντι.
+[^Luke_9_13_na]: BGB marks a word-order variant here: φαγεῖν ⇔ ὑμεῖς.
+[^Luke_9_18_nb]: BGB marks a word-order variant here: «οἱ ὄχλοι» ⇔ λέγουσιν.
+[^Luke_9_59_nc]: BGB marks a word-order variant here: πρῶτον ⇔ ἀπελθόντι.
 [^Luke_9_35_a]: BYZ and TR Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός
 [^Luke_9_54_b]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^Luke_9_55_c]: Also attested in BYZ/TR; many early MSS lack the rest of verse 55 and verse 56.
@@ -4896,9 +4896,9 @@
 **41** Ἀποκριθεὶς δὲ εἶπεν αὐτῇ ὁ Κύριος <span style="color:#FF0000">“Μάρθα Μάρθα, μεριμνᾷς καὶ θορυβάζῃ περὶ πολλά, </span>
 **42** <span style="color:#FF0000">ὀλίγων δέ ἐστιν χρεία ἢ ἑνός· Μαριὰμ γὰρ τὴν ἀγαθὴν μερίδα ἐξελέξατο, ἥτις οὐκ ἀφαιρεθήσεται αὐτῆς.”</span>
 
-[^Luke_10_6_na]: The Berean Greek Bible marks a word-order variant here: ἐκεῖ ⇔ ᾖ.
-[^Luke_10_6_nb]: The Berean Greek Bible marks a compound-word variant here: μή¦γε.
-[^Luke_10_35_nc]: The Berean Greek Bible marks a word-order variant here: «δύο δηνάρια» ⇔ ἔδωκεν.
+[^Luke_10_6_na]: BGB marks a word-order variant here: ἐκεῖ ⇔ ᾖ.
+[^Luke_10_6_nb]: BGB marks a compound-word variant here: μή¦γε.
+[^Luke_10_35_nc]: BGB marks a word-order variant here: «δύο δηνάρια» ⇔ ἔδωκεν.
 [^Luke_10_1_a]: NE, BYZ, and TR ἑβδομήκοντα; also in verse 17
 [^Luke_10_7_b]: Leviticus 19:13; Deuteronomy 24:14,15
 [^Luke_10_27_c]: Deuteronomy 6:5
@@ -5120,8 +5120,8 @@
 **58** <span style="color:#FF0000">ὡς γὰρ ὑπάγεις μετὰ τοῦ ἀντιδίκου σου ἐπ’ ἄρχοντα, ἐν τῇ ὁδῷ δὸς ἐργασίαν ἀπηλλάχθαι ἀπ’ αὐτοῦ, μή ποτε</span>[^Luke_12_58_nb]<span style="color:#FF0000"> κατασύρῃ σε πρὸς τὸν κριτήν, καὶ ὁ κριτής σε παραδώσει τῷ πράκτορι, καὶ ὁ πράκτωρ σε βαλεῖ εἰς φυλακήν.</span>
 **59** <span style="color:#FF0000">λέγω σοι, οὐ μὴ ἐξέλθῃς ἐκεῖθεν ἕως καὶ τὸ ἔσχατον λεπτὸν ἀποδῷς.”</span>[^Luke_12_59_f]
 
-[^Luke_12_56_na]: The Berean Greek Bible marks a word-order variant here: καιρὸν ⇔ δὲ.
-[^Luke_12_58_nb]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Luke_12_56_na]: BGB marks a word-order variant here: καιρὸν ⇔ δὲ.
+[^Luke_12_58_nb]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Luke_12_6_a]: Greek two assaria; an assarion was a Roman copper coin worth about 1/16 of a denarius
 [^Luke_12_25_b]: Or a single cubit to his height; a cubit was about 18 inches or 45 centimeters
 [^Luke_12_27_c]: NE and Tischendorf οὔτε νήθει οὔτε ὑφαίνει
@@ -5200,10 +5200,10 @@
 **34** <span style="color:#FF0000">Ἰερουσαλὴμ Ἰερουσαλήμ, ἡ ἀποκτείνουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους πρὸς αὐτήν, ποσάκις ἠθέλησα ἐπισυνάξαι τὰ τέκνα σου ὃν τρόπον ὄρνις τὴν ἑαυτῆς νοσσιὰν ὑπὸ τὰς πτέρυγας, καὶ οὐκ ἠθελήσατε.</span>
 **35** <span style="color:#FF0000">ἰδοὺ ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν. λέγω δὲ ὑμῖν, οὐ μὴ ἴδητέ με ἕως ἥξει ὅτε εἴπητε ‘Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι Κυρίου.’</span>[^Luke_13_35_a]<span style="color:#FF0000">” </span>
 
-[^Luke_13_4_na]: The Berean Greek Bible marks a compound-word variant here: δέκα‿ οκτὼ.
-[^Luke_13_7_nb]: The Berean Greek Bible marks a compound-word variant here: ἵνα‿ τί.
-[^Luke_13_9_nc]: The Berean Greek Bible marks a compound-word variant here: μή¦γε.
-[^Luke_13_11_nd]: The Berean Greek Bible marks a compound-word variant here: δέκα‿ οκτώ.
+[^Luke_13_4_na]: BGB marks a compound-word variant here: δέκα‿ οκτὼ.
+[^Luke_13_7_nb]: BGB marks a compound-word variant here: ἵνα‿ τί.
+[^Luke_13_9_nc]: BGB marks a compound-word variant here: μή¦γε.
+[^Luke_13_11_nd]: BGB marks a compound-word variant here: δέκα‿ οκτώ.
 [^Luke_13_35_a]: Psalm 118:26
 
 ## Luke 14
@@ -5276,9 +5276,9 @@
 
 <span style="color:#FF0000">Ὁ ἔχων ὦτα ἀκούειν ἀκουέτω.” </span>
 
-[^Luke_14_8_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
-[^Luke_14_12_nb]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
-[^Luke_14_32_nc]: The Berean Greek Bible marks a compound-word variant here: μή¦γε.
+[^Luke_14_8_na]: BGB marks a compound-word variant here: μή‿ ποτε.
+[^Luke_14_12_nb]: BGB marks a compound-word variant here: μή‿ ποτε.
+[^Luke_14_32_nc]: BGB marks a compound-word variant here: μή¦γε.
 [^Luke_14_5_a]: TR ὄνος
 
 ## Luke 15
@@ -5402,7 +5402,7 @@
 
 **31** <span style="color:#FF0000">Εἶπεν δὲ αὐτῷ ‘Εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν, οὐδ’ ἐάν τις ἐκ νεκρῶν ἀναστῇ πεισθήσονται.’” </span>
 
-[^Luke_16_12_na]: The Berean Greek Bible marks a word-order variant here: δώσει ⇔ ὑμῖν.
+[^Luke_16_12_na]: BGB marks a word-order variant here: δώσει ⇔ ὑμῖν.
 [^Luke_16_6_a]: Greek, A hundred baths, about 875 gallons or 3,200 liters
 [^Luke_16_7_b]: Greek, A hundred cors, approximately 1,100 bushels or 40,000 liters
 
@@ -5560,8 +5560,8 @@
 **42** Καὶ ὁ Ἰησοῦς εἶπεν αὐτῷ <span style="color:#FF0000">“Ἀνάβλεψον· ἡ πίστις σου σέσωκέν σε.”</span>
 **43** καὶ παραχρῆμα ἀνέβλεψεν, καὶ ἠκολούθει αὐτῷ δοξάζων τὸν Θεόν. καὶ πᾶς ὁ λαὸς ἰδὼν ἔδωκεν αἶνον τῷ Θεῷ.
 
-[^Luke_18_4_na]: The Berean Greek Bible marks a word-order variant here: ταῦτα ⇔ δὲ.
-[^Luke_18_11_nb]: The Berean Greek Bible marks a word-order variant here: ταῦτα ⇔ «πρὸς ἑαυτὸν».
+[^Luke_18_4_na]: BGB marks a word-order variant here: ταῦτα ⇔ δὲ.
+[^Luke_18_11_nb]: BGB marks a word-order variant here: ταῦτα ⇔ «πρὸς ἑαυτὸν».
 [^Luke_18_20_a]: Exodus 20:12-16; Deuteronomy 5:16-20
 
 ## Luke 19
@@ -5758,7 +5758,7 @@
 **46** <span style="color:#FF0000">“Προσέχετε ἀπὸ τῶν γραμματέων τῶν θελόντων περιπατεῖν ἐν στολαῖς καὶ φιλούντων ἀσπασμοὺς ἐν ταῖς ἀγοραῖς καὶ πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς καὶ πρωτοκλισίας ἐν τοῖς δείπνοις, </span>
 **47** <span style="color:#FF0000">οἳ κατεσθίουσιν τὰς οἰκίας τῶν χηρῶν καὶ προφάσει μακρὰ προσεύχονται· οὗτοι λήμψονται περισσότερον κρίμα.”</span>
 
-[^Luke_20_44_na]: The Berean Greek Bible marks a word-order variant here: αὐτὸν ⇔ Κύριον.
+[^Luke_20_44_na]: BGB marks a word-order variant here: αὐτὸν ⇔ Κύριον.
 [^Luke_20_17_a]: Psalm 118:22
 [^Luke_20_24_b]: A denarius was customarily a day's wage for a laborer (see Matthew 20:2)
 [^Luke_20_30_c]: Also attested in BYZ/TR; many early MSS lack this clause.
@@ -5833,9 +5833,9 @@
 **37** Ἦν δὲ τὰς ἡμέρας ἐν τῷ ἱερῷ διδάσκων, τὰς δὲ νύκτας ἐξερχόμενος ηὐλίζετο εἰς τὸ ὄρος τὸ καλούμενον Ἐλαιῶν.
 **38** καὶ πᾶς ὁ λαὸς ὤρθριζεν πρὸς αὐτὸν ἐν τῷ ἱερῷ ἀκούειν αὐτοῦ.
 
-[^Luke_21_3_na]: The Berean Greek Bible marks a word-order variant here: αὕτη ⇔ «ἡ πτωχὴ».
-[^Luke_21_11_nb]: The Berean Greek Bible marks a word-order variant here: «ἀπ’ οὐρανοῦ» ⇔ σημεῖα.
-[^Luke_21_34_nc]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Luke_21_3_na]: BGB marks a word-order variant here: αὕτη ⇔ «ἡ πτωχὴ».
+[^Luke_21_11_nb]: BGB marks a word-order variant here: «ἀπ’ οὐρανοῦ» ⇔ σημεῖα.
+[^Luke_21_34_nc]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Luke_21_2_a]: Greek two lepta; a lepton was a Jewish copper coin worth about 1/128 of a denarius
 
 ## Luke 22
@@ -6822,8 +6822,8 @@
 
 **53** Καὶ ἐπορεύθησαν ἕκαστος εἰς τὸν οἶκον αὐτοῦ.
 
-[^John_7_3_na]: The Berean Greek Bible marks a word-order variant here: «τὰ ἔργα» ⇔ σοῦ.
-[^John_7_26_nb]: The Berean Greek Bible marks a compound-word variant here: Μή‿ ποτε.
+[^John_7_3_na]: BGB marks a word-order variant here: «τὰ ἔργα» ⇔ σοῦ.
+[^John_7_26_nb]: BGB marks a compound-word variant here: Μή‿ ποτε.
 [^John_7_8_a]: NE, WH, BYZ, and TR οὔπω
 [^John_7_52_b]: Some early manuscripts do not include John 7:53 - 8:11
 
@@ -6941,11 +6941,11 @@
 
 **59** Ἦραν οὖν λίθους ἵνα βάλωσιν ἐπ’ αὐτόν· Ἰησοῦς δὲ ἐκρύβη καὶ ἐξῆλθεν ἐκ τοῦ ἱεροῦ.[^John_8_59_e]
 
-[^John_8_5_na]: The Berean Greek Bible marks a word-order variant here: Μωϋσῆς ⇔ ἡμῖν.
-[^John_8_7_nb]: The Berean Greek Bible marks a word-order variant here: λίθον ⇔ «ἐπ’ αὐτῇ βαλέτω».
-[^John_8_8_nc]: The Berean Greek Bible marks a compound-word variant here: κάτω¦κύψας.
-[^John_8_9_nd]: The Berean Greek Bible marks a compound-word variant here: καθ‿ εἷς.
-[^John_8_25_ne]: The Berean Greek Bible marks a compound-word variant here: ὅ¦τι.
+[^John_8_5_na]: BGB marks a word-order variant here: Μωϋσῆς ⇔ ἡμῖν.
+[^John_8_7_nb]: BGB marks a word-order variant here: λίθον ⇔ «ἐπ’ αὐτῇ βαλέτω».
+[^John_8_8_nc]: BGB marks a compound-word variant here: κάτω¦κύψας.
+[^John_8_9_nd]: BGB marks a compound-word variant here: καθ‿ εἷς.
+[^John_8_25_ne]: BGB marks a compound-word variant here: ὅ¦τι.
 [^John_8_9_a]: Also attested in NE/BYZ/TR; many early MSS lack this clause.
 [^John_8_10_b]: Also attested in NE/BYZ/TR; many early MSS lack this clause.
 [^John_8_10_c]: WH and NA do not include ἐκεῖνοι οἱ κατήγοροί σου
@@ -7040,7 +7040,7 @@
 
 **41** Εἶπεν αὐτοῖς ὁ Ἰησοῦς <span style="color:#FF0000">“Εἰ τυφλοὶ ἦτε, οὐκ ἂν εἴχετε ἁμαρτίαν· νῦν δὲ λέγετε ὅτι ‘Βλέπομεν·’ ἡ ἁμαρτία ὑμῶν μένει.”</span>
 
-[^John_9_31_na]: The Berean Greek Bible marks a word-order variant here: «ὁ Θεὸς» ⇔ ἁμαρτωλῶν.
+[^John_9_31_na]: BGB marks a word-order variant here: «ὁ Θεὸς» ⇔ ἁμαρτωλῶν.
 [^John_9_35_a]: BYZ and TR τὸν υἱὸν τοῦ Θεοῦ
 [^John_9_39_b]: Some manuscripts do not include 38 ὁ δὲ ἔφη Πιστεύω, Κύριε . . . 39 καὶ εἶπεν ὁ Ἰησοῦς
 
@@ -7110,8 +7110,8 @@
 **41** καὶ πολλοὶ ἦλθον πρὸς αὐτὸν καὶ ἔλεγον ὅτι “Ἰωάννης μὲν σημεῖον ἐποίησεν οὐδέν, πάντα δὲ ὅσα εἶπεν Ἰωάννης περὶ τούτου ἀληθῆ ἦν.”
 **42** καὶ πολλοὶ ἐπίστευσαν εἰς αὐτὸν ἐκεῖ.
 
-[^John_10_32_na]: The Berean Greek Bible marks a word-order variant here: «ἔδειξα ὑμῖν» ⇔ καλὰ.
-[^John_10_39_nb]: The Berean Greek Bible marks a word-order variant here: αὐτὸν ⇔ πάλιν.
+[^John_10_32_na]: BGB marks a word-order variant here: «ἔδειξα ὑμῖν» ⇔ καλὰ.
+[^John_10_39_nb]: BGB marks a word-order variant here: αὐτὸν ⇔ πάλιν.
 [^John_10_22_a]: That is, Hanukkah, also called the Feast of Lights
 [^John_10_34_b]: Psalm 82:6
 
@@ -7465,8 +7465,8 @@
 
 <span style="color:#FF0000">Ἐγείρεσθε, ἄγωμεν ἐντεῦθεν. </span>
 
-[^John_14_13_na]: The Berean Greek Bible marks a compound-word variant here: ὅ¦τι.
-[^John_14_16_nb]: The Berean Greek Bible marks a word-order variant here: ᾖ ⇔ «μεθ’ ὑμῶν εἰς τὸν αἰῶνα».
+[^John_14_13_na]: BGB marks a compound-word variant here: ὅ¦τι.
+[^John_14_16_nb]: BGB marks a word-order variant here: ᾖ ⇔ «μεθ’ ὑμῶν εἰς τὸν αἰῶνα».
 [^John_14_1_a]: Or Believe in God
 [^John_14_4_b]: BYZ and TR Καὶ ὅπου ἐγὼ ὑπάγω οἴδατε, καὶ τὴν ὁδὸν οἴδατε.
 [^John_14_14_c]: TR does not include με
@@ -7516,8 +7516,8 @@
 **26** <span style="color:#FF0000">Ὅταν ἔλθῃ ὁ Παράκλητος ὃν ἐγὼ πέμψω ὑμῖν παρὰ τοῦ Πατρός, τὸ Πνεῦμα τῆς ἀληθείας ὃ παρὰ τοῦ Πατρὸς ἐκπορεύεται, ἐκεῖνος μαρτυρήσει περὶ ἐμοῦ·</span>
 **27** <span style="color:#FF0000">καὶ ὑμεῖς δὲ μαρτυρεῖτε, ὅτι ἀπ’ ἀρχῆς μετ’ ἐμοῦ ἐστε. </span>
 
-[^John_15_10_na]: The Berean Greek Bible marks a word-order variant here: «τοῦ Πατρός μου» ⇔ «τὰς ἐντολὰς».
-[^John_15_16_nb]: The Berean Greek Bible marks a compound-word variant here: ὅ¦τι.
+[^John_15_10_na]: BGB marks a word-order variant here: «τοῦ Πατρός μου» ⇔ «τὰς ἐντολὰς».
+[^John_15_16_nb]: BGB marks a compound-word variant here: ὅ¦τι.
 [^John_15_25_a]: Psalms 35:19; 69:4
 
 ## John 16
@@ -7574,8 +7574,8 @@
 **32** <span style="color:#FF0000">ἰδοὺ ἔρχεται ὥρα καὶ ἐλήλυθεν ἵνα σκορπισθῆτε ἕκαστος εἰς τὰ ἴδια κἀμὲ μόνον ἀφῆτε· καὶ οὐκ εἰμὶ μόνος, ὅτι ὁ Πατὴρ μετ’ ἐμοῦ ἐστιν. </span>
 **33** <span style="color:#FF0000">ταῦτα λελάληκα ὑμῖν ἵνα ἐν ἐμοὶ εἰρήνην ἔχητε. ἐν τῷ κόσμῳ θλῖψιν ἔχετε· ἀλλὰ θαρσεῖτε, ἐγὼ νενίκηκα τὸν κόσμον.”</span>
 
-[^John_16_18_na]: The Berean Greek Bible marks a word-order variant here: Τοῦτο ⇔ «τί ἐστιν».
-[^John_16_23_nb]: The Berean Greek Bible marks a word-order variant here: «δώσει ὑμῖν» ⇔ «ἐν τῷ ὀνόματί μου».
+[^John_16_18_na]: BGB marks a word-order variant here: Τοῦτο ⇔ «τί ἐστιν».
+[^John_16_23_nb]: BGB marks a word-order variant here: «δώσει ὑμῖν» ⇔ «ἐν τῷ ὀνόματί μου».
 [^John_16_16_a]: BYZ includes ὅτι ὑπάγω πρὸς τὸν πατέρα; TR is similar
 [^John_16_27_b]: WH τοῦ πατρὸς
 
@@ -7722,7 +7722,7 @@
 
 **40** Ἐκραύγασαν οὖν πάλιν λέγοντες “Μὴ τοῦτον, ἀλλὰ τὸν Βαραββᾶν.” ἦν δὲ ὁ Βαραββᾶς λῃστής.
 
-[^John_18_36_na]: The Berean Greek Bible marks a word-order variant here: ἄν ⇔ «οἱ ἐμοὶ ἠγωνίζοντο».
+[^John_18_36_na]: BGB marks a word-order variant here: ἄν ⇔ «οἱ ἐμοὶ ἠγωνίζοντο».
 
 ## John 19
 
@@ -7816,7 +7816,7 @@
 **41** Ἦν δὲ ἐν τῷ τόπῳ ὅπου ἐσταυρώθη κῆπος, καὶ ἐν τῷ κήπῳ μνημεῖον καινόν, ἐν ᾧ οὐδέπω οὐδεὶς ἦν τεθειμένος·
 **42** ἐκεῖ οὖν διὰ τὴν Παρασκευὴν τῶν Ἰουδαίων, ὅτι ἐγγὺς ἦν τὸ μνημεῖον, ἔθηκαν τὸν Ἰησοῦν.
 
-[^John_19_21_na]: The Berean Greek Bible marks a word-order variant here: εἰμι ⇔ «τῶν Ἰουδαίων».
+[^John_19_21_na]: BGB marks a word-order variant here: εἰμι ⇔ «τῶν Ἰουδαίων».
 [^John_19_24_a]: Psalm 22:18
 [^John_19_36_b]: Exodus 12:46; Numbers 9:12; Psalm 34:20
 [^John_19_37_c]: Zechariah 12:10
@@ -7960,7 +7960,7 @@
 
 **25** Ἔστιν δὲ καὶ ἄλλα πολλὰ ἃ ἐποίησεν ὁ Ἰησοῦς, ἅτινα ἐὰν γράφηται καθ’ ἕν, οὐδ’ αὐτὸν οἶμαι τὸν κόσμον χωρήσειν τὰ γραφόμενα βιβλία.
 
-[^John_21_18_na]: The Berean Greek Bible marks a word-order variant here: ζώσει ⇔ σε.
+[^John_21_18_na]: BGB marks a word-order variant here: ζώσει ⇔ σε.
 [^John_21_8_a]: Greek two hundred cubits, or about 90 meters
 
 # Acts
@@ -8121,8 +8121,8 @@
 **46** Καθ’ ἡμέραν τε προσκαρτεροῦντες ὁμοθυμαδὸν ἐν τῷ ἱερῷ, κλῶντές τε κατ’ οἶκον ἄρτον, μετελάμβανον τροφῆς ἐν ἀγαλλιάσει καὶ ἀφελότητι καρδίας,
 **47** αἰνοῦντες τὸν Θεὸν καὶ ἔχοντες χάριν πρὸς ὅλον τὸν λαόν. ὁ δὲ Κύριος προσετίθει τοὺς σῳζομένους καθ’ ἡμέραν ἐπὶ τὸ αὐτό.
 
-[^Acts_2_18_na]: The Berean Greek Bible marks a compound-word variant here: καί‿ γε.
-[^Acts_2_26_nb]: The Berean Greek Bible marks a word-order variant here: μου ⇔ «ἡ καρδία».
+[^Acts_2_18_na]: BGB marks a compound-word variant here: καί‿ γε.
+[^Acts_2_26_nb]: BGB marks a word-order variant here: μου ⇔ «ἡ καρδία».
 [^Acts_2_9_a]: That is, the Roman Province of Asia
 [^Acts_2_21_b]: Joel 2:28-32
 [^Acts_2_28_c]: Psalm 16:8-11
@@ -8171,7 +8171,7 @@
 **25** ὑμεῖς ἐστε οἱ υἱοὶ τῶν προφητῶν καὶ τῆς διαθήκης ἧς «ὁ Θεὸς» [^Acts_3_25_na] διέθετο πρὸς τοὺς πατέρας ὑμῶν, λέγων πρὸς Ἀβραάμ ‘Καὶ ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς.’[^Acts_3_25_d]
 **26** ὑμῖν πρῶτον ἀναστήσας ὁ Θεὸς τὸν Παῖδα αὐτοῦ ἀπέστειλεν αὐτὸν εὐλογοῦντα ὑμᾶς ἐν τῷ ἀποστρέφειν ἕκαστον ἀπὸ τῶν πονηριῶν ὑμῶν.”
 
-[^Acts_3_25_na]: The Berean Greek Bible marks a word-order variant here: «ὁ Θεὸς» ⇔ διέθετο.
+[^Acts_3_25_na]: BGB marks a word-order variant here: «ὁ Θεὸς» ⇔ διέθετο.
 [^Acts_3_6_a]: SBL, NE, and WH ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ τοῦ Ναζωραίου περιπάτει
 [^Acts_3_13_b]: Or child; also in verse 26
 [^Acts_3_23_c]: Deuteronomy 18:15,18,19
@@ -8247,8 +8247,8 @@
 **36** Ἰωσὴφ δὲ ὁ ἐπικληθεὶς Βαρνάβας ἀπὸ τῶν ἀποστόλων, ὅ ἐστιν μεθερμηνευόμενον Υἱὸς παρακλήσεως, Λευίτης, Κύπριος τῷ γένει,
 **37** ὑπάρχοντος αὐτῷ ἀγροῦ, πωλήσας ἤνεγκεν τὸ χρῆμα καὶ ἔθηκεν πρὸς τοὺς πόδας τῶν ἀποστόλων.
 
-[^Acts_4_25_na]: The Berean Greek Bible marks a compound-word variant here: Ἵνα‿ Τί.
-[^Acts_4_33_nb]: The Berean Greek Bible marks a word-order variant here: «τοῦ Κυρίου Ἰησοῦ» ⇔ «τῆς ἀναστάσεως».
+[^Acts_4_25_na]: BGB marks a compound-word variant here: Ἵνα‿ Τί.
+[^Acts_4_33_nb]: BGB marks a word-order variant here: «τοῦ Κυρίου Ἰησοῦ» ⇔ «τῆς ἀναστάσεως».
 [^Acts_4_11_a]: Psalm 118:22
 [^Acts_4_25_b]: Or child; also verses 27 and 30
 [^Acts_4_26_c]: Psalm 2:1,2
@@ -8328,7 +8328,7 @@
 **41** Οἱ μὲν οὖν ἐπορεύοντο χαίροντες ἀπὸ προσώπου τοῦ συνεδρίου, ὅτι κατηξιώθησαν ὑπὲρ τοῦ Ὀνόματος ἀτιμασθῆναι·
 **42** πᾶσάν τε ἡμέραν ἐν τῷ ἱερῷ καὶ κατ’ οἶκον οὐκ ἐπαύοντο διδάσκοντες καὶ εὐαγγελιζόμενοι τὸν Χριστὸν Ἰησοῦν.
 
-[^Acts_5_39_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Acts_5_39_na]: BGB marks a compound-word variant here: μή‿ ποτε.
 
 ## Acts 6
 
@@ -8459,7 +8459,7 @@
 **59** Καὶ ἐλιθοβόλουν τὸν Στέφανον, ἐπικαλούμενον καὶ λέγοντα “Κύριε Ἰησοῦ, δέξαι τὸ πνεῦμά μου.”
 **60** θεὶς δὲ τὰ γόνατα ἔκραξεν φωνῇ μεγάλῃ “Κύριε, μὴ στήσῃς αὐτοῖς ταύτην τὴν ἁμαρτίαν.” καὶ τοῦτο εἰπὼν ἐκοιμήθη.
 
-[^Acts_7_26_na]: The Berean Greek Bible marks a compound-word variant here: ἱνα‿ τί.
+[^Acts_7_26_na]: BGB marks a compound-word variant here: ἱνα‿ τί.
 [^Acts_7_3_a]: Genesis 12:1
 [^Acts_7_7_b]: Genesis 15:13,14
 [^Acts_7_20_c]: Or he was of great status in God's eyes
@@ -8775,7 +8775,7 @@
 **29** τῶν δὲ μαθητῶν καθὼς εὐπορεῖτό τις, ὥρισαν ἕκαστος αὐτῶν εἰς διακονίαν πέμψαι τοῖς κατοικοῦσιν ἐν τῇ Ἰουδαίᾳ ἀδελφοῖς·
 **30** ὃ καὶ ἐποίησαν ἀποστείλαντες πρὸς τοὺς πρεσβυτέρους διὰ χειρὸς Βαρνάβα καὶ Σαύλου.
 
-[^Acts_11_9_na]: The Berean Greek Bible marks a word-order variant here: «ἐκ δευτέρου» ⇔ φωνὴ.
+[^Acts_11_9_na]: BGB marks a word-order variant here: «ἐκ δευτέρου» ⇔ φωνὴ.
 [^Acts_11_16_a]: Or in water
 
 ## Acts 12
@@ -9140,8 +9140,8 @@
 **39** καὶ ἐλθόντες παρεκάλεσαν αὐτούς, καὶ ἐξαγαγόντες ἠρώτων ἀπελθεῖν ἀπὸ τῆς πόλεως.
 **40** ἐξελθόντες δὲ ἀπὸ τῆς φυλακῆς εἰσῆλθον πρὸς τὴν Λυδίαν, καὶ ἰδόντες παρεκάλεσαν τοὺς ἀδελφοὺς καὶ ἐξῆλθαν.
 
-[^Acts_16_12_na]: The Berean Greek Bible marks a word-order variant here: τῆς ⇔ μερίδος.
-[^Acts_16_28_nb]: The Berean Greek Bible marks a word-order variant here: «‹ὁ› Παῦλος» ⇔ «μεγάλῃ φωνῇ».
+[^Acts_16_12_na]: BGB marks a word-order variant here: τῆς ⇔ μερίδος.
+[^Acts_16_28_nb]: BGB marks a word-order variant here: «‹ὁ› Παῦλος» ⇔ «μεγάλῃ φωνῇ».
 [^Acts_16_16_a]: Greek Python, a spirit of divination named after the mythical serpent slain by Apollo
 
 ## Acts 17
@@ -9476,7 +9476,7 @@
 **39** Εἶπεν δὲ ὁ Παῦλος “Ἐγὼ ἄνθρωπος μέν εἰμι Ἰουδαῖος, Ταρσεὺς, τῆς Κιλικίας οὐκ ἀσήμου πόλεως πολίτης· δέομαι δέ σου, ἐπίτρεψόν μοι λαλῆσαι πρὸς τὸν λαόν.”
 **40** ἐπιτρέψαντος δὲ αὐτοῦ ὁ Παῦλος ἑστὼς ἐπὶ τῶν ἀναβαθμῶν κατέσεισεν τῇ χειρὶ τῷ λαῷ· πολλῆς δὲ σιγῆς γενομένης προσεφώνησεν τῇ Ἑβραΐδι διαλέκτῳ[^Acts_21_40_a] λέγων
 
-[^Acts_21_5_na]: The Berean Greek Bible marks a word-order variant here: ἐξαρτίσαι ⇔ ἡμᾶς.
+[^Acts_21_5_na]: BGB marks a word-order variant here: ἐξαρτίσαι ⇔ ἡμᾶς.
 [^Acts_21_40_a]: Or Aramaic
 
 ## Acts 22
@@ -9611,7 +9611,7 @@
 **34** Ἀναγνοὺς δὲ καὶ ἐπερωτήσας ἐκ ποίας ἐπαρχείας ἐστὶν, καὶ πυθόμενος ὅτι ἀπὸ Κιλικίας
 **35** “Διακούσομαί σου,” ἔφη, “Ὅταν καὶ οἱ κατήγοροί σου παραγένωνται·” κελεύσας ἐν τῷ πραιτωρίῳ τοῦ Ἡρῴδου φυλάσσεσθαι αὐτόν.
 
-[^Acts_23_23_na]: The Berean Greek Bible marks a word-order variant here: τινας ⇔ δύο.
+[^Acts_23_23_na]: BGB marks a word-order variant here: τινας ⇔ δύο.
 [^Acts_23_5_a]: Exodus 22:28
 
 ## Acts 24
@@ -9715,7 +9715,7 @@
 **26** περὶ οὗ ἀσφαλές τι γράψαι τῷ κυρίῳ οὐκ ἔχω· διὸ προήγαγον αὐτὸν ἐφ’ ὑμῶν καὶ μάλιστα ἐπὶ σοῦ, βασιλεῦ Ἀγρίππα, ὅπως τῆς ἀνακρίσεως γενομένης σχῶ τί γράψω·
 **27** ἄλογον γάρ μοι δοκεῖ πέμποντα δέσμιον μὴ καὶ τὰς κατ’ αὐτοῦ αἰτίας σημᾶναι.”
 
-[^Acts_25_10_na]: The Berean Greek Bible marks a word-order variant here: Ἑστὼς ⇔ «ἐπὶ τοῦ βήματος Καίσαρος».
+[^Acts_25_10_na]: BGB marks a word-order variant here: Ἑστὼς ⇔ «ἐπὶ τοῦ βήματος Καίσαρος».
 
 ## Acts 26
 
@@ -9842,7 +9842,7 @@
 **43** ὁ δὲ ἑκατοντάρχης βουλόμενος διασῶσαι τὸν Παῦλον ἐκώλυσεν αὐτοὺς τοῦ βουλήματος, ἐκέλευσέν τε τοὺς δυναμένους κολυμβᾶν ἀπορίψαντας πρώτους ἐπὶ τὴν γῆν ἐξιέναι,
 **44** καὶ τοὺς λοιποὺς οὓς μὲν ἐπὶ σανίσιν, οὓς δὲ ἐπί τινων τῶν ἀπὸ τοῦ πλοίου. καὶ οὕτως ἐγένετο πάντας διασωθῆναι ἐπὶ τὴν γῆν.
 
-[^Acts_27_8_na]: The Berean Greek Bible marks a word-order variant here: ἦν ⇔ πόλις.
+[^Acts_27_8_na]: BGB marks a word-order variant here: ἦν ⇔ πόλις.
 [^Acts_27_9_a]: That is, Yom Kippur, the Day of Atonement
 [^Acts_27_16_b]: NE, BYZ, and TR Κλαῦδα
 [^Acts_27_17_c]: Or the sails
@@ -9914,8 +9914,8 @@
 **30** Ἐνέμεινεν δὲ διετίαν ὅλην ἐν ἰδίῳ μισθώματι, καὶ ἀπεδέχετο πάντας τοὺς εἰσπορευομένους πρὸς αὐτόν,
 **31** κηρύσσων τὴν βασιλείαν τοῦ Θεοῦ καὶ διδάσκων τὰ περὶ τοῦ Κυρίου Ἰησοῦ Χριστοῦ μετὰ πάσης παρρησίας ἀκωλύτως.
 
-[^Acts_28_7_na]: The Berean Greek Bible marks a word-order variant here: ἡμέρας ⇔ τρεῖς.
-[^Acts_28_27_nb]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Acts_28_7_na]: BGB marks a word-order variant here: ἡμέρας ⇔ τρεῖς.
+[^Acts_28_27_nb]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Acts_28_4_a]: Greek Dike, that is, the Greek goddess of justice
 [^Acts_28_11_b]: Greek Dioscuri, that is, the Greek gods Castor and Pollux
 [^Acts_28_16_c]: Also attested in BYZ/TR; many early MSS lack this clause.
@@ -10326,8 +10326,8 @@
 **38** πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις
 **39** οὔτε ὕψωμα οὔτε βάθος οὔτε τις κτίσις ἑτέρα δυνήσεται ἡμᾶς χωρίσαι ἀπὸ τῆς ἀγάπης τοῦ Θεοῦ τῆς ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν.
 
-[^Romans_8_11_na]: The Berean Greek Bible marks a word-order variant here: «ἐκ νεκρῶν» ⇔ Χριστὸν.
-[^Romans_8_14_nb]: The Berean Greek Bible marks a word-order variant here: εἰσιν ⇔ Θεοῦ.
+[^Romans_8_11_na]: BGB marks a word-order variant here: «ἐκ νεκρῶν» ⇔ Χριστὸν.
+[^Romans_8_14_nb]: BGB marks a word-order variant here: εἰσιν ⇔ Θεοῦ.
 [^Romans_8_1_a]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^Romans_8_2_b]: BYZ and TR ἠλευθέρωσέν με
 [^Romans_8_11_c]: NA, BYZ, and TR Χριστὸν
@@ -10614,7 +10614,7 @@
 
 **21** Μὴ νικῶ ὑπὸ τοῦ κακοῦ, ἀλλὰ νίκα ἐν τῷ ἀγαθῷ τὸ κακόν.
 
-[^Romans_12_1_na]: The Berean Greek Bible marks a word-order variant here: «τῷ Θεῷ» ⇔ εὐάρεστον.
+[^Romans_12_1_na]: BGB marks a word-order variant here: «τῷ Θεῷ» ⇔ εὐάρεστον.
 [^Romans_12_19_a]: Deuteronomy 32:35
 [^Romans_12_20_b]: Proverbs 25:21,22
 
@@ -10769,7 +10769,7 @@
 
 **33** Ὁ δὲ Θεὸς τῆς εἰρήνης μετὰ πάντων ὑμῶν· ἀμήν.
 
-[^Romans_15_21_na]: The Berean Greek Bible marks a word-order variant here: Ὄψονται ⇔ «οἷς οὐκ ἀνηγγέλη περὶ αὐτοῦ».
+[^Romans_15_21_na]: BGB marks a word-order variant here: Ὄψονται ⇔ «οἷς οὐκ ἀνηγγέλη περὶ αὐτοῦ».
 [^Romans_15_3_a]: Psalm 69:9
 [^Romans_15_9_b]: 2 Samuel 22:50; Psalm 18:49
 [^Romans_15_10_c]: Deuteronomy 32:43
@@ -10911,7 +10911,7 @@
 **30** Ἐξ αὐτοῦ δὲ ὑμεῖς ἐστε ἐν Χριστῷ Ἰησοῦ, ὃς ἐγενήθη σοφία ἡμῖν ἀπὸ Θεοῦ, δικαιοσύνη τε καὶ ἁγιασμὸς καὶ ἀπολύτρωσις,
 **31** ἵνα καθὼς γέγραπται “Ὁ καυχώμενος ἐν Κυρίῳ καυχάσθω.”[^1_Corinthians_1_31_c]
 
-[^1_Corinthians_1_2_na]: The Berean Greek Bible marks a word-order variant here: «τῇ οὔσῃ ἐν Κορίνθῳ» ⇔ «ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ».
+[^1_Corinthians_1_2_na]: BGB marks a word-order variant here: «τῇ οὔσῃ ἐν Κορίνθῳ» ⇔ «ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ».
 [^1_Corinthians_1_12_a]: That is, Peter
 [^1_Corinthians_1_19_b]: Isaiah 29:14
 [^1_Corinthians_1_31_c]: Jeremiah 9:24
@@ -10992,7 +10992,7 @@
 **22** εἴτε Παῦλος εἴτε Ἀπολλῶς εἴτε Κηφᾶς,[^1_Corinthians_3_22_c] εἴτε κόσμος εἴτε ζωὴ εἴτε θάνατος, εἴτε ἐνεστῶτα εἴτε μέλλοντα, πάντα ὑμῶν,
 **23** ὑμεῖς δὲ Χριστοῦ, Χριστὸς δὲ Θεοῦ.
 
-[^1_Corinthians_3_16_na]: The Berean Greek Bible marks a word-order variant here: «ἐν ὑμῖν» ⇔ οἰκεῖ.
+[^1_Corinthians_3_16_na]: BGB marks a word-order variant here: «ἐν ὑμῖν» ⇔ οἰκεῖ.
 [^1_Corinthians_3_19_a]: Job 5:13
 [^1_Corinthians_3_20_b]: Psalm 94:11
 [^1_Corinthians_3_22_c]: That is, Peter
@@ -11167,7 +11167,7 @@
 **39** Γυνὴ δέδεται ἐφ’ ὅσον χρόνον ζῇ ὁ ἀνὴρ αὐτῆς· ἐὰν δὲ κοιμηθῇ ὁ ἀνήρ, ἐλευθέρα ἐστὶν ᾧ θέλει γαμηθῆναι, μόνον ἐν Κυρίῳ·
 **40** μακαριωτέρα δέ ἐστιν ἐὰν οὕτως μείνῃ, κατὰ τὴν ἐμὴν γνώμην· δοκῶ δὲ κἀγὼ Πνεῦμα Θεοῦ ἔχειν.
 
-[^1_Corinthians_7_38_na]: The Berean Greek Bible marks a word-order variant here: ἑαυτοῦ ⇔ παρθένον.
+[^1_Corinthians_7_38_na]: BGB marks a word-order variant here: ἑαυτοῦ ⇔ παρθένον.
 [^1_Corinthians_7_15_a]: SBL, BYZ, and TR ἡμᾶς
 [^1_Corinthians_7_26_b]: Or impending
 
@@ -11290,7 +11290,7 @@
 **32** ἀπρόσκοποι καὶ Ἰουδαίοις γίνεσθε καὶ Ἕλλησιν καὶ τῇ ἐκκλησίᾳ τοῦ Θεοῦ,
 **33** καθὼς κἀγὼ πάντα πᾶσιν ἀρέσκω, μὴ ζητῶν τὸ ἐμαυτοῦ σύμφορον ἀλλὰ τὸ τῶν πολλῶν, ἵνα σωθῶσιν.
 
-[^1_Corinthians_10_29_na]: The Berean Greek Bible marks a compound-word variant here: ἵνα‿ τί.
+[^1_Corinthians_10_29_na]: BGB marks a compound-word variant here: ἵνα‿ τί.
 [^1_Corinthians_10_7_a]: Exodus 32:6
 [^1_Corinthians_10_9_b]: WH, NE, and Tischendorf τὸν κύριον
 [^1_Corinthians_10_26_c]: Psalm 24:1
@@ -11493,7 +11493,7 @@
 **39** Ὥστε, ἀδελφοί μου, ζηλοῦτε τὸ προφητεύειν, καὶ τὸ λαλεῖν μὴ κωλύετε γλώσσαις·
 **40** πάντα δὲ εὐσχημόνως καὶ κατὰ τάξιν γινέσθω.
 
-[^1_Corinthians_14_8_na]: The Berean Greek Bible marks a word-order variant here: σάλπιγξ ⇔ φωνὴν.
+[^1_Corinthians_14_8_na]: BGB marks a word-order variant here: σάλπιγξ ⇔ φωνὴν.
 [^1_Corinthians_14_21_a]: Isaiah 28:11,12
 [^1_Corinthians_14_38_b]: BYZ and TR ἀγνοείτω
 
@@ -11650,7 +11650,7 @@
 
 ⧼Ἀμήν⧽.[^1_Corinthians_16_24_c]
 
-[^1_Corinthians_16_2_na]: The Berean Greek Bible marks a compound-word variant here: ὅ¦τι.
+[^1_Corinthians_16_2_na]: BGB marks a compound-word variant here: ὅ¦τι.
 [^1_Corinthians_16_19_a]: Or Priscilla
 [^1_Corinthians_16_22_b]: Greek Maranatha (a transliteration of Aramaic)
 [^1_Corinthians_16_24_c]: SBL, WH, and NA do not include Ἀμήν
@@ -11700,7 +11700,7 @@
 **23** Ἐγὼ δὲ μάρτυρα τὸν Θεὸν ἐπικαλοῦμαι ἐπὶ τὴν ἐμὴν ψυχήν, ὅτι φειδόμενος ὑμῶν οὐκέτι ἦλθον εἰς Κόρινθον.
 **24** οὐχ ὅτι κυριεύομεν ὑμῶν τῆς πίστεως, ἀλλὰ συνεργοί ἐσμεν τῆς χαρᾶς ὑμῶν· τῇ γὰρ πίστει ἑστήκατε.
 
-[^2_Corinthians_1_19_na]: The Berean Greek Bible marks a word-order variant here: Χριστὸς ⇔ Ἰησοῦς.
+[^2_Corinthians_1_19_na]: BGB marks a word-order variant here: Χριστὸς ⇔ Ἰησοῦς.
 [^2_Corinthians_1_19_a]: That is, Silas
 
 ## 2 Corinthians 2
@@ -11791,7 +11791,7 @@
 **17** τὸ γὰρ παραυτίκα ἐλαφρὸν τῆς θλίψεως ‹ἡμῶν› καθ’ ὑπερβολὴν εἰς ὑπερβολὴν αἰώνιον βάρος δόξης κατεργάζεται ἡμῖν,
 **18** μὴ σκοπούντων ἡμῶν τὰ βλεπόμενα ἀλλὰ τὰ μὴ βλεπόμενα· τὰ γὰρ βλεπόμενα πρόσκαιρα, τὰ δὲ μὴ βλεπόμενα αἰώνια.
 
-[^2_Corinthians_4_5_na]: The Berean Greek Bible marks a word-order variant here: Χριστὸν ⇔ Ἰησοῦν.
+[^2_Corinthians_4_5_na]: BGB marks a word-order variant here: Χριστὸν ⇔ Ἰησοῦν.
 [^2_Corinthians_4_6_a]: Genesis 1:3
 [^2_Corinthians_4_6_b]: SBL, NE, and WH προσώπῳ Χριστοῦ
 [^2_Corinthians_4_13_c]: Psalm 116:10
@@ -12062,7 +12062,7 @@
 **32** ἐν Δαμασκῷ ὁ ἐθνάρχης Ἁρέτα τοῦ βασιλέως ἐφρούρει τὴν πόλιν Δαμασκηνῶν πιάσαι με,
 **33** καὶ διὰ θυρίδος ἐν σαργάνῃ ἐχαλάσθην διὰ τοῦ τείχους καὶ ἐξέφυγον τὰς χεῖρας αὐτοῦ.
 
-[^2_Corinthians_11_16_na]: The Berean Greek Bible marks a compound-word variant here: μή¦γε.
+[^2_Corinthians_11_16_na]: BGB marks a compound-word variant here: μή¦γε.
 
 ## 2 Corinthians 12
 
@@ -12178,8 +12178,8 @@
 **23** μόνον δὲ ἀκούοντες ἦσαν ὅτι “Ὁ διώκων ἡμᾶς ποτε νῦν εὐαγγελίζεται τὴν πίστιν ἥν ποτε ἐπόρθει,”
 **24** καὶ ἐδόξαζον ἐν ἐμοὶ τὸν Θεόν.
 
-[^Galatians_1_3_na]: The Berean Greek Bible marks a word-order variant here: ἡμῶν ⇔ «καὶ Κυρίου».
-[^Galatians_1_18_nb]: The Berean Greek Bible marks a word-order variant here: τρία ⇔ ἔτη.
+[^Galatians_1_3_na]: BGB marks a word-order variant here: ἡμῶν ⇔ «καὶ Κυρίου».
+[^Galatians_1_18_nb]: BGB marks a word-order variant here: τρία ⇔ ἔτη.
 [^Galatians_1_18_a]: That is, Peter
 
 ## Galatians 2
@@ -12214,7 +12214,7 @@
 **20** Χριστῷ συνεσταύρωμαι· ζῶ δὲ οὐκέτι ἐγώ, ζῇ δὲ ἐν ἐμοὶ Χριστός· ὃ δὲ νῦν ζῶ ἐν σαρκί, ἐν πίστει ζῶ τῇ τοῦ Υἱοῦ τοῦ Θεοῦ τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ ἐμοῦ.
 **21** Οὐκ ἀθετῶ τὴν χάριν τοῦ Θεοῦ· εἰ γὰρ διὰ νόμου δικαιοσύνη, ἄρα Χριστὸς δωρεὰν ἀπέθανεν.”[^Galatians_2_21_d]
 
-[^Galatians_2_16_na]: The Berean Greek Bible marks a word-order variant here: Χριστοῦ ⇔ Ἰησοῦ.
+[^Galatians_2_16_na]: BGB marks a word-order variant here: Χριστοῦ ⇔ Ἰησοῦ.
 [^Galatians_2_7_a]: Literal, the uncircumcision
 [^Galatians_2_7_b]: Literal, the circumcision; also in verses 8 and 9
 [^Galatians_2_9_c]: That is, Peter; also in verses 11 and 14
@@ -12270,7 +12270,7 @@
 **28** οὐκ ἔνι Ἰουδαῖος οὐδὲ Ἕλλην, οὐκ ἔνι δοῦλος οὐδὲ ἐλεύθερος, οὐκ ἔνι ἄρσεν καὶ θῆλυ· πάντες γὰρ ὑμεῖς εἷς ἐστε ἐν Χριστῷ Ἰησοῦ.
 **29** εἰ δὲ ὑμεῖς Χριστοῦ, ἄρα τοῦ Ἀβραὰμ σπέρμα ἐστέ, κατ’ ἐπαγγελίαν κληρονόμοι.
 
-[^Galatians_3_14_na]: The Berean Greek Bible marks a word-order variant here: Ἰησοῦ ⇔ Χριστῷ.
+[^Galatians_3_14_na]: BGB marks a word-order variant here: Ἰησοῦ ⇔ Χριστῷ.
 [^Galatians_3_6_a]: Genesis 15:6
 [^Galatians_3_8_b]: Genesis 12:3; 18:18; 22:18
 [^Galatians_3_10_c]: Deuteronomy 27:26
@@ -12648,7 +12648,7 @@
 **32** τὸ μυστήριον τοῦτο μέγα ἐστίν, ἐγὼ δὲ λέγω εἰς Χριστὸν καὶ εἰς τὴν ἐκκλησίαν.
 **33** πλὴν καὶ ὑμεῖς οἱ καθ’ ἕνα ἕκαστος τὴν ἑαυτοῦ γυναῖκα οὕτως ἀγαπάτω ὡς ἑαυτόν, ἡ δὲ γυνὴ ἵνα φοβῆται τὸν ἄνδρα.
 
-[^Ephesians_5_31_na]: The Berean Greek Bible marks a word-order variant here: τὴν ⇔ γυναῖκα.
+[^Ephesians_5_31_na]: BGB marks a word-order variant here: τὴν ⇔ γυναῖκα.
 [^Ephesians_5_30_a]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^Ephesians_5_31_b]: Genesis 2:24
 
@@ -12817,7 +12817,7 @@
 **29** προσδέχεσθε οὖν αὐτὸν ἐν Κυρίῳ μετὰ πάσης χαρᾶς, καὶ τοὺς τοιούτους ἐντίμους ἔχετε,
 **30** ὅτι διὰ τὸ ἔργον Χριστοῦ μέχρι θανάτου ἤγγισεν παραβολευσάμενος τῇ ψυχῇ, ἵνα ἀναπληρώσῃ τὸ ὑμῶν ὑστέρημα τῆς πρός με λειτουργίας.
 
-[^Philippians_2_21_na]: The Berean Greek Bible marks a word-order variant here: Χριστοῦ ⇔ Ἰησοῦ.
+[^Philippians_2_21_na]: BGB marks a word-order variant here: Χριστοῦ ⇔ Ἰησοῦ.
 [^Philippians_2_15_a]: Deuteronomy 32:5
 
 ## Philippians 3
@@ -12860,7 +12860,7 @@
 **20** Ἡμῶν γὰρ τὸ πολίτευμα ἐν οὐρανοῖς ὑπάρχει, ἐξ οὗ καὶ Σωτῆρα ἀπεκδεχόμεθα Κύριον Ἰησοῦν Χριστόν,
 **21** ὃς μετασχηματίσει τὸ σῶμα τῆς ταπεινώσεως ἡμῶν σύμμορφον τῷ σώματι τῆς δόξης αὐτοῦ, κατὰ τὴν ἐνέργειαν τοῦ δύνασθαι αὐτὸν καὶ ὑποτάξαι αὑτῷ τὰ πάντα.
 
-[^Philippians_3_8_na]: The Berean Greek Bible marks a compound-word variant here: μὲν‿ οὖν‿ γε.
+[^Philippians_3_8_na]: BGB marks a compound-word variant here: μὲν‿ οὖν‿ γε.
 
 ## Philippians 4
 
@@ -13090,7 +13090,7 @@
 
 Ἡ χάρις μεθ’ ὑμῶν.[^Colossians_4_18_a]
 
-[^Colossians_4_13_na]: The Berean Greek Bible marks a compound-word variant here: Ἱερα‿ πόλει.
+[^Colossians_4_13_na]: BGB marks a compound-word variant here: Ἱερα‿ πόλει.
 [^Colossians_4_18_a]: BYZ and TR include Ἀμήν.
 
 # 1 Thessalonians
@@ -13152,7 +13152,7 @@
 **19** τίς γὰρ ἡμῶν ἐλπὶς ἢ χαρὰ ἢ στέφανος καυχήσεως—ἢ οὐχὶ καὶ ὑμεῖς—ἔμπροσθεν τοῦ Κυρίου ἡμῶν Ἰησοῦ ἐν τῇ αὐτοῦ παρουσίᾳ;
 **20** ὑμεῖς γάρ ἐστε ἡ δόξα ἡμῶν καὶ ἡ χαρά.
 
-[^1_Thessalonians_2_13_na]: The Berean Greek Bible marks a word-order variant here: ἀληθῶς ⇔ ἐστὶν.
+[^1_Thessalonians_2_13_na]: BGB marks a word-order variant here: ἀληθῶς ⇔ ἐστὶν.
 
 ## 1 Thessalonians 3
 
@@ -13283,7 +13283,7 @@
 **11** Εἰς ὃ καὶ προσευχόμεθα πάντοτε περὶ ὑμῶν, ἵνα ὑμᾶς ἀξιώσῃ τῆς κλήσεως ὁ Θεὸς ἡμῶν καὶ πληρώσῃ πᾶσαν εὐδοκίαν ἀγαθωσύνης καὶ ἔργον πίστεως ἐν δυνάμει,
 **12** ὅπως ἐνδοξασθῇ τὸ ὄνομα τοῦ Κυρίου ἡμῶν Ἰησοῦ ἐν ὑμῖν, καὶ ὑμεῖς ἐν αὐτῷ, κατὰ τὴν χάριν τοῦ Θεοῦ ἡμῶν καὶ Κυρίου Ἰησοῦ Χριστοῦ.
 
-[^2_Thessalonians_1_8_na]: The Berean Greek Bible marks a word-order variant here: πυρὶ ⇔ φλογός.
+[^2_Thessalonians_1_8_na]: BGB marks a word-order variant here: πυρὶ ⇔ φλογός.
 [^2_Thessalonians_1_1_a]: That is, Silas
 
 ## 2 Thessalonians 2
@@ -13313,7 +13313,7 @@
 **16** Αὐτὸς δὲ ὁ Κύριος ἡμῶν Ἰησοῦς Χριστὸς καὶ ὁ Θεὸς ὁ Πατὴρ ἡμῶν, ὁ ἀγαπήσας ἡμᾶς καὶ δοὺς παράκλησιν αἰωνίαν καὶ ἐλπίδα ἀγαθὴν ἐν χάριτι,
 **17** παρακαλέσαι ὑμῶν τὰς καρδίας καὶ στηρίξαι ἐν παντὶ ἔργῳ καὶ λόγῳ ἀγαθῷ.
 
-[^2_Thessalonians_2_13_na]: The Berean Greek Bible marks a compound-word variant here: ἀπ᾽‿ ἀρχῆς.
+[^2_Thessalonians_2_13_na]: BGB marks a compound-word variant here: ἀπ᾽‿ ἀρχῆς.
 [^2_Thessalonians_2_13_a]: Or God has chosen you as the firstfruits
 
 ## 2 Thessalonians 3
@@ -13391,7 +13391,7 @@
 **19** ἔχων πίστιν καὶ ἀγαθὴν συνείδησιν, ἥν τινες ἀπωσάμενοι περὶ τὴν πίστιν ἐναυάγησαν·
 **20** ὧν ἐστιν Ὑμέναιος καὶ Ἀλέξανδρος, οὓς παρέδωκα τῷ Σατανᾷ, ἵνα παιδευθῶσιν μὴ βλασφημεῖν.
 
-[^1_Timothy_1_16_na]: The Berean Greek Bible marks a word-order variant here: Ἰησοῦς ⇔ Χριστὸς.
+[^1_Timothy_1_16_na]: BGB marks a word-order variant here: Ἰησοῦς ⇔ Χριστὸς.
 
 ## 1 Timothy 2
 
@@ -13685,7 +13685,7 @@
 **25** ἐν πραΰτητι παιδεύοντα τοὺς ἀντιδιατιθεμένους, μή ποτε[^2_Timothy_2_25_na] δώῃ αὐτοῖς ὁ Θεὸς μετάνοιαν εἰς ἐπίγνωσιν ἀληθείας,
 **26** καὶ ἀνανήψωσιν ἐκ τῆς τοῦ διαβόλου παγίδος, ἐζωγρημένοι ὑπ’ αὐτοῦ εἰς τὸ ἐκείνου θέλημα.
 
-[^2_Timothy_2_25_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^2_Timothy_2_25_na]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^2_Timothy_2_14_a]: SBL, BYZ, and TR τοῦ κυρίου
 
 ## 2 Timothy 3
@@ -13715,7 +13715,7 @@
 **16** πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ,
 **17** ἵνα ἄρτιος ᾖ ὁ τοῦ Θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος.
 
-[^2_Timothy_3_12_na]: The Berean Greek Bible marks a word-order variant here: ζῆν ⇔ εὐσεβῶς.
+[^2_Timothy_3_12_na]: BGB marks a word-order variant here: ζῆν ⇔ εὐσεβῶς.
 
 ## 2 Timothy 4
 
@@ -13828,7 +13828,7 @@
 
 **15** Ταῦτα λάλει καὶ παρακάλει καὶ ἔλεγχε μετὰ πάσης ἐπιταγῆς· μηδείς σου περιφρονείτω.
 
-[^Titus_2_13_na]: The Berean Greek Bible marks a word-order variant here: Χριστοῦ ⇔ Ἰησοῦ.
+[^Titus_2_13_na]: BGB marks a word-order variant here: Χριστοῦ ⇔ Ἰησοῦ.
 
 ## Titus 3
 
@@ -14033,8 +14033,8 @@
 **17** ὅθεν ὤφειλεν κατὰ πάντα τοῖς ἀδελφοῖς ὁμοιωθῆναι, ἵνα ἐλεήμων γένηται καὶ πιστὸς ἀρχιερεὺς τὰ πρὸς τὸν Θεόν, εἰς τὸ ἱλάσκεσθαι τὰς ἁμαρτίας τοῦ λαοῦ.
 **18** ἐν ᾧ γὰρ πέπονθεν αὐτὸς πειρασθείς, δύναται τοῖς πειραζομένοις βοηθῆσαι.
 
-[^Hebrews_2_1_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
-[^Hebrews_2_16_nb]: The Berean Greek Bible marks a compound-word variant here: δή‿ που.
+[^Hebrews_2_1_na]: BGB marks a compound-word variant here: μή‿ ποτε.
+[^Hebrews_2_16_nb]: BGB marks a compound-word variant here: δή‿ που.
 [^Hebrews_2_7_a]: Or a little while lower; also in verse 9
 [^Hebrews_2_7_b]: Also attested in WH/TR; many early MSS lack this clause.
 [^Hebrews_2_8_c]: Psalm 8:4-6
@@ -14089,7 +14089,7 @@
 **18** τίσιν δὲ ὤμοσεν μὴ εἰσελεύσεσθαι εἰς τὴν κατάπαυσιν αὐτοῦ εἰ μὴ τοῖς ἀπειθήσασιν;
 **19** καὶ βλέπομεν ὅτι οὐκ ἠδυνήθησαν εἰσελθεῖν δι’ ἀπιστίαν.
 
-[^Hebrews_3_12_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Hebrews_3_12_na]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Hebrews_3_5_a]: Numbers 12:7
 [^Hebrews_3_6_b]: Also attested in NE/WH/BYZ/TR; many early MSS lack this clause.
 [^Hebrews_3_11_c]: Psalm 95:7-11
@@ -14129,7 +14129,7 @@
 **15** οὐ γὰρ ἔχομεν ἀρχιερέα μὴ δυνάμενον συμπαθῆσαι ταῖς ἀσθενείαις ἡμῶν, πεπειρασμένον δὲ κατὰ πάντα καθ’ ὁμοιότητα χωρὶς ἁμαρτίας.
 **16** προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.
 
-[^Hebrews_4_1_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Hebrews_4_1_na]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Hebrews_4_3_a]: Psalm 95:11; also in verse 5
 [^Hebrews_4_4_b]: Genesis 2:2
 [^Hebrews_4_7_c]: Psalm 95:7,8
@@ -14348,7 +14348,7 @@
 **27** Καὶ καθ’ ὅσον ἀπόκειται τοῖς ἀνθρώποις ἅπαξ ἀποθανεῖν, μετὰ δὲ τοῦτο κρίσις,
 **28** οὕτως καὶ ὁ Χριστός, ἅπαξ προσενεχθεὶς εἰς τὸ πολλῶν ἀνενεγκεῖν ἁμαρτίας, ἐκ δευτέρου χωρὶς ἁμαρτίας ὀφθήσεται τοῖς αὐτὸν ἀπεκδεχομένοις εἰς σωτηρίαν.
 
-[^Hebrews_9_17_na]: The Berean Greek Bible marks a compound-word variant here: μή‿ ποτε.
+[^Hebrews_9_17_na]: BGB marks a compound-word variant here: μή‿ ποτε.
 [^Hebrews_9_11_a]: BYZ and TR μελλόντων
 [^Hebrews_9_14_b]: BYZ and TR ὑμῶν
 [^Hebrews_9_20_c]: Exodus 24:8
@@ -14694,7 +14694,7 @@
 **26** Εἴ τις δοκεῖ θρησκὸς εἶναι, μὴ χαλιναγωγῶν γλῶσσαν αὐτοῦ ἀλλὰ ἀπατῶν καρδίαν αὐτοῦ, τούτου μάταιος ἡ θρησκεία.
 **27** θρησκεία καθαρὰ καὶ ἀμίαντος παρὰ τῷ Θεῷ καὶ Πατρὶ αὕτη ἐστίν, ἐπισκέπτεσθαι ὀρφανοὺς καὶ χήρας ἐν τῇ θλίψει αὐτῶν, ἄσπιλον ἑαυτὸν τηρεῖν ἀπὸ τοῦ κόσμου.
 
-[^James_1_22_na]: The Berean Greek Bible marks a word-order variant here: ἀκροαταὶ ⇔ μόνον.
+[^James_1_22_na]: BGB marks a word-order variant here: ἀκροαταὶ ⇔ μόνον.
 
 ## James 2
 
@@ -14738,7 +14738,7 @@
 **25** Ὁμοίως δὲ καὶ Ῥαὰβ ἡ πόρνη οὐκ ἐξ ἔργων ἐδικαιώθη, ὑποδεξαμένη τοὺς ἀγγέλους καὶ ἑτέρᾳ ὁδῷ ἐκβαλοῦσα;
 **26** ὥσπερ γὰρ τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν, οὕτως καὶ ἡ πίστις χωρὶς ἔργων νεκρά ἐστιν.
 
-[^James_2_3_na]: The Berean Greek Bible marks a word-order variant here: «ἢ “Κάθου» ⇔ ὑπὸ.
+[^James_2_3_na]: BGB marks a word-order variant here: «ἢ “Κάθου» ⇔ ὑπὸ.
 [^James_2_8_a]: Leviticus 19:18
 [^James_2_11_b]: Exodus 20:14; Deuteronomy 5:18
 [^James_2_11_c]: Exodus 20:13; Deuteronomy 5:17
@@ -14976,7 +14976,7 @@
 
 **25** Ἦτε γὰρ ὡς πρόβατα πλανώμενοι,[^1_Peter_2_25_f] ἀλλὰ ἐπεστράφητε νῦν ἐπὶ τὸν Ποιμένα καὶ Ἐπίσκοπον τῶν ψυχῶν ὑμῶν.
 
-[^1_Peter_2_6_na]: The Berean Greek Bible marks a word-order variant here: ἐκλεκτὸν ⇔ ἀκρογωνιαῖον.
+[^1_Peter_2_6_na]: BGB marks a word-order variant here: ἐκλεκτὸν ⇔ ἀκρογωνιαῖον.
 [^1_Peter_2_6_a]: Isaiah 28:16
 [^1_Peter_2_7_b]: Psalm 118:22
 [^1_Peter_2_8_c]: Isaiah 8:14
@@ -15362,7 +15362,7 @@
 **23** καὶ αὕτη ἐστὶν ἡ ἐντολὴ αὐτοῦ, ἵνα πιστεύσωμεν τῷ ὀνόματι τοῦ Υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ καὶ ἀγαπῶμεν ἀλλήλους καθὼς ἔδωκεν ἐντολὴν ἡμῖν.
 **24** καὶ ὁ τηρῶν τὰς ἐντολὰς αὐτοῦ ἐν αὐτῷ μένει καὶ αὐτὸς ἐν αὐτῷ· καὶ ἐν τούτῳ γινώσκομεν ὅτι μένει ἐν ἡμῖν, ἐκ τοῦ Πνεύματος οὗ ἡμῖν ἔδωκεν.
 
-[^1_John_3_21_na]: The Berean Greek Bible marks a word-order variant here: ἡμῶν ⇔ «μὴ καταγινώσκῃ».
+[^1_John_3_21_na]: BGB marks a word-order variant here: ἡμῶν ⇔ «μὴ καταγινώσκῃ».
 [^1_John_3_2_a]: Or when it appears
 [^1_John_3_7_b]: NA Παιδία
 
@@ -15401,7 +15401,7 @@
 **20** Ἐάν τις εἴπῃ ὅτι “Ἀγαπῶ τὸν Θεόν,” καὶ τὸν ἀδελφὸν αὐτοῦ μισῇ, ψεύστης ἐστίν· ὁ γὰρ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ ὃν ἑώρακεν, τὸν Θεὸν ὃν οὐχ ἑώρακεν οὐ δύναται ἀγαπᾶν.
 **21** καὶ ταύτην τὴν ἐντολὴν ἔχομεν ἀπ’ αὐτοῦ, ἵνα ὁ ἀγαπῶν τὸν Θεὸν ἀγαπᾷ καὶ τὸν ἀδελφὸν αὐτοῦ.
 
-[^1_John_4_12_na]: The Berean Greek Bible marks a word-order variant here: τετελειωμένη ⇔ «ἐν ἡμῖν».
+[^1_John_4_12_na]: BGB marks a word-order variant here: τετελειωμένη ⇔ «ἐν ἡμῖν».
 [^1_John_4_3_a]: BYZ and TR Ἰησοῦν χριστὸν ἐν σαρκὶ ἐληλυθότα
 [^1_John_4_6_b]: Or spirit
 
@@ -15444,7 +15444,7 @@
 
 **21** Τεκνία, φυλάξατε ἑαυτὰ ἀπὸ τῶν εἰδώλων.[^1_John_5_21_d]
 
-[^1_John_5_11_na]: The Berean Greek Bible marks a word-order variant here: «ὁ Θεὸς» ⇔ ἡμῖν.
+[^1_John_5_11_na]: BGB marks a word-order variant here: «ὁ Θεὸς» ⇔ ἡμῖν.
 [^1_John_5_7_a]: Also attested in TR/GOC; many early MSS read only the earthly witnesses in v. 8.
 [^1_John_5_13_b]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^1_John_5_18_c]: NA, BYZ, and TR ἑαυτὸν
@@ -15484,7 +15484,7 @@
 
 **13** Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς.[^2_John_1_13_b]
 
-[^2_John_1_5_na]: The Berean Greek Bible marks a word-order variant here: «γράφων σοι» ⇔ καινὴν.
+[^2_John_1_5_na]: BGB marks a word-order variant here: «γράφων σοι» ⇔ καινὴν.
 [^2_John_1_8_a]: NE and WH ἠργασάμεθα
 [^2_John_1_13_b]: BYZ and TR include Ἀμήν.
 
@@ -15577,7 +15577,7 @@
 
 Ἀμήν.
 
-[^Jude_1_5_na]: The Berean Greek Bible marks a word-order variant here: ἅπαξ ⇔ «πάντα, ὅτι Ἰησοῦς».
+[^Jude_1_5_na]: BGB marks a word-order variant here: ἅπαξ ⇔ «πάντα, ὅτι Ἰησοῦς».
 [^Jude_1_5_a]: NE, WH, BYZ, and TR Κύριος
 [^Jude_1_9_b]: See the Testament of Moses
 [^Jude_1_12_c]: Or blemishes
@@ -16128,7 +16128,7 @@
 
 **18** Καὶ ἐστάθη ἐπὶ τὴν ἄμμον τῆς θαλάσσης.[^Revelation_12_18_b]
 
-[^Revelation_12_3_na]: The Berean Greek Bible marks a word-order variant here: πυρρός ⇔ μέγας.
+[^Revelation_12_3_na]: BGB marks a word-order variant here: πυρρός ⇔ μέγας.
 [^Revelation_12_5_a]: Psalm 2:9
 [^Revelation_12_18_b]: BYZ and TR Καὶ ἐστάθην ἐπὶ τὴν ἄμμον τῆς θαλάσσης· Some texts number this sentence as verse 18, and others include it with 13:1.
 
@@ -16218,7 +16218,7 @@
 **19** Καὶ ἔβαλεν ὁ ἄγγελος τὸ δρέπανον αὐτοῦ εἰς τὴν γῆν, καὶ ἐτρύγησεν τὴν ἄμπελον τῆς γῆς καὶ ἔβαλεν εἰς τὴν ληνὸν τοῦ θυμοῦ τοῦ Θεοῦ τὸν μέγαν.
 **20** καὶ ἐπατήθη ἡ ληνὸς ἔξωθεν τῆς πόλεως, καὶ ἐξῆλθεν αἷμα ἐκ τῆς ληνοῦ ἄχρι τῶν χαλινῶν τῶν ἵππων, ἀπὸ σταδίων χιλίων ἑξακοσίων.[^Revelation_14_20_d]
 
-[^Revelation_14_8_na]: The Berean Greek Bible marks a word-order variant here: ἄγγελος ⇔ δεύτερος.
+[^Revelation_14_8_na]: BGB marks a word-order variant here: ἄγγελος ⇔ δεύτερος.
 [^Revelation_14_5_a]: Also attested in BYZ/TR; many early MSS lack this clause.
 [^Revelation_14_8_b]: Isaiah 21:9; Daniel 4:30
 [^Revelation_14_14_c]: See Daniel 7:13
@@ -16303,8 +16303,8 @@
 **20** Καὶ πᾶσα νῆσος ἔφυγεν, καὶ ὄρη οὐχ εὑρέθησαν.
 **21** καὶ χάλαζα μεγάλη ὡς ταλαντιαία[^Revelation_16_21_a] καταβαίνει ἐκ τοῦ οὐρανοῦ ἐπὶ τοὺς ἀνθρώπους· καὶ ἐβλασφήμησαν οἱ ἄνθρωποι τὸν Θεὸν ἐκ τῆς πληγῆς τῆς χαλάζης, ὅτι μεγάλη ἐστὶν ἡ πληγὴ αὐτῆς σφόδρα.
 
-[^Revelation_16_16_na]: The Berean Greek Bible marks a compound-word variant here: Ἁρ¦μαγεδών.
-[^Revelation_16_18_nb]: The Berean Greek Bible marks a word-order variant here: ἄνθρωπος ⇔ ἐγένετο.
+[^Revelation_16_16_na]: BGB marks a compound-word variant here: Ἁρ¦μαγεδών.
+[^Revelation_16_18_nb]: BGB marks a word-order variant here: ἄνθρωπος ⇔ ἐγένετο.
 [^Revelation_16_21_a]: Greek a talent in weight, or about 45 kilograms
 
 ## Revelation 17
@@ -16528,7 +16528,7 @@
 
 Καὶ πάντα τὰ ὄρνεα ἐχορτάσθησαν ἐκ τῶν σαρκῶν αὐτῶν.
 
-[^Revelation_19_11_na]: The Berean Greek Bible marks a word-order variant here: καλούμενος ⇔ Πιστὸς.
+[^Revelation_19_11_na]: BGB marks a word-order variant here: καλούμενος ⇔ Πιστὸς.
 [^Revelation_19_13_a]: WH ῤεραντισμένον
 [^Revelation_19_15_b]: Psalm 2:9
 

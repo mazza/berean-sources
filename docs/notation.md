@@ -1,6 +1,33 @@
 # Greek notation
 
-The Greek text is the Berean Greek Bible. Its base is Nestle 1904. Berean prints an inline apparatus for words and for word order. The legend below is the one published with that text. This edition keeps one reading in the line and records the rest as notes.
+The Greek text is the Berean Greek Bible (BGB). Its base is Nestle 1904. Berean prints an inline apparatus for words and for word order. This edition keeps one reading in the line and records the rest as notes.
+
+## Abbreviations
+
+The footnotes use the abbreviations Berean prints with the Berean Standard Bible. Their front matter asks readers to see the Berean Bible website for the full account of these sources. The key is [Greek, Hebrew, and Aramaic Sources and Abbreviations](https://en.wikisource.org/wiki/Bible_%28Berean_Standard%29/Greek,_Hebrew_and_Aramaic_Sources_and_Abbreviations):
+
+| Abbreviation | Source |
+|---|---|
+| NA | Nestle Aland, Novum Testamentum Graece |
+| SBL | Society of Biblical Literature, Greek New Testament |
+| ECM | Editio Critica Maior, Novum Testamentum Graecum |
+| NE | Eberhard Nestle Novum Testamentum Graece |
+| WH | Westcott and Hort, New Testament in the Original Greek |
+| BYZ | The New Testament in the Original Greek: Byzantine Textform |
+| GOC | Greek Orthodox Church, New Testament |
+| TR | Scrivener’s Textus Receptus<br>Stephanus Textus Receptus |
+| DSS | Dead Sea Scrolls |
+| MT | Hebrew Masoretic Text: Westminster Leningrad Codex<br>Hebrew Masoretic Text: Biblia Hebraica Stuttgartensia |
+| LXX | Greek OT Septuagint: Rahlfs-Hanhart Septuaginta<br>Greek OT Septuagint: Swete's Septuagint |
+| SP | Samaritan Pentateuch |
+
+Abbreviations added in this edition:
+
+| Abbreviation | Source |
+|---|---|
+| BGB | Berean Greek Bible |
+
+A note names the edition by its abbreviation. The word-order and compound notes begin with BGB. The same Berean abbreviations also appear inside the brackets kept in the line. That legend is the next section.
 
 ## Words that stay in the line
 
@@ -36,7 +63,7 @@ The arrow is not always between two guillemet spans. Often it stands between two
 The reading keeps the written order and drops the arrow. A footnote quotes the mark:
 
 ```text
-The Berean Greek Bible marks a word-order variant here: «ἀφιέναι ἁμαρτίας» ⇔ «ἐπὶ τῆς γῆς».
+BGB marks a word-order variant here: «ἀφιέναι ἁμαρτίας» ⇔ «ἐπὶ τῆς γῆς».
 ```
 
 The quote takes the guillemet span on each side of the arrow. A comma or a period between the span and the arrow still counts as that span. A side with no guillemets contributes the Greek word on that side. The note does not supply wording the DOCX does not print.
@@ -53,7 +80,7 @@ Compound¦word
 A chain such as `μὲν‿ οὖν‿ γε` is one note. The reading joins on a broken bar and keeps the space of an undertie. The footnote quotes the source:
 
 ```text
-The Berean Greek Bible marks a compound-word variant here: ὅ¦τι.
+BGB marks a compound-word variant here: ὅ¦τι.
 ```
 
 Five marks keep a different spelling. The line uses that reading, and the note still quotes the mark:
@@ -72,4 +99,4 @@ A mark at the end of a paragraph quotes the first Greek word of the next line. A
 
 ## Where the notes come from
 
-`pipeline/greek_docx_to_markdown.py` reads `prepared/_work/bgb-edited.docx` and writes the footnotes with the sentences above. `pipeline/build_canon.py` then gives each note its chapter letter. The legend Berean publishes is at [greekbible.org](https://greekbible.org/).
+`pipeline/greek_docx_to_markdown.py` reads `prepared/_work/bgb-edited.docx` and writes the footnotes with the sentences above. `pipeline/build_canon.py` then gives each note its chapter letter. The bracket legend Berean publishes with the Greek text is at [greekbible.org](https://greekbible.org/).

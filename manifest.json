@@ -64,8 +64,8 @@
       "path": "prepared/greek-nt.md",
       "from": "archive/bgb.docx",
       "script": "pipeline/greek_docx_to_markdown.py",
-      "sha256": "834ee4f63edb3e9deeb28b301224d4ba56177a069f8f523a39800e8688014cd1",
-      "bytes": 2004847
+      "sha256": "987accfe49d25b0a83fe629af63ec43a736d99377deaac24e585d99923679c72",
+      "bytes": 2001940
     }
   ],
   "extras": [

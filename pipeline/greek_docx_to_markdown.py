@@ -53,8 +53,8 @@ ARROW = "\u21d4"  # ⇔
 BAR = "\u00a6"  # ¦
 TIE = "\u203f"  # ‿
 COMPOUND_MARKS = {BAR, TIE}
-ORDER_NOTE = "The Berean Greek Bible marks a word-order variant here: {quote}."
-COMPOUND_NOTE = "The Berean Greek Bible marks a compound-word variant here: {quote}."
+ORDER_NOTE = "BGB marks a word-order variant here: {quote}."
+COMPOUND_NOTE = "BGB marks a compound-word variant here: {quote}."
 # Joining on ¦ or spacing on ‿ is the reading, except these five.
 # The footnote still quotes the mark. The apostrophe is U+2019.
 COMPOUND_READINGS = (

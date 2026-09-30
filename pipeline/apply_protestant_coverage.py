@@ -205,7 +205,7 @@ _LATIN_IN_GREEK = str.maketrans(
         "Z": "Ζ",
     }
 )
-_GLUED_ENGLISH = ("include", "BYZ", "SBL", "WH", "NA", "NE", "GOC", "TR")
+_GLUED_ENGLISH = ("include", "BGB", "BYZ", "SBL", "WH", "NA", "NE", "GOC", "TR")
 
 
 def _greek_homoglyphs(text: str) -> str:

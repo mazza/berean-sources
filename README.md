@@ -13,7 +13,7 @@ The text here is the original-language layer those English Bibles are built from
 | Notice and titles | [`front/`](front/) |
 | Morphology, original-language order | [`extra/tables-original-order.tsv`](extra/tables-original-order.tsv) |
 | Checks | [`QUALITY.md`](QUALITY.md) |
-| Greek notation | [`docs/notation.md`](docs/notation.md) |
+| Greek notation, abbreviations | [`docs/notation.md`](docs/notation.md) |
 | Inventory | [`manifest.json`](manifest.json) |
 
 ## Path

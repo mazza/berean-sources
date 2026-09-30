@@ -88,7 +88,7 @@ Example: `[^GEN_1_1_a]`, `[^1SA_20_42_b]`, `[^MAT_17_21_b]`.
 - The letter is the note's place in that chapter, in English alphabetical order: the first note is `a`, then `b`. After `z` comes `aa`, then `ab`. A note inserted earlier in the chapter shifts every later letter. The letter is not the source's own label, and it does not restart at each verse.
 - The id is unique across the Bible. Joining every chapter into one Markdown file does not repeat anchors.
 
-Greek word-order and compound-word marks from the Berean Greek Bible are notes of this shape. The brackets that stay in the line, and the two sentences the notes use, are in [`notation.md`](notation.md).
+Greek word-order and compound-word marks from the Berean Greek Bible are notes of this shape. The brackets that stay in the line, the abbreviation key, and the two sentences the notes use are in [`notation.md`](notation.md).
 
 ## Extra files
 
