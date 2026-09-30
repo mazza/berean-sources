@@ -1,0 +1,98 @@
+{
+  "schema": "bible-edition/1",
+  "id": "berean",
+  "name": "Berean original-language text",
+  "language": [
+    "hbo",
+    "arc",
+    "grc"
+  ],
+  "canon_shape": "protestant",
+  "official": false,
+  "license": {
+    "structuring": "CC0-1.0",
+    "source_text": "CC0-1.0",
+    "verse_maxima": "CC-BY-SA-4.0"
+  },
+  "markdown": {
+    "grammar": "edition-canon/1",
+    "spec": "docs/format.md",
+    "footnote_id": "[^<USFM>_<chapter>_<verse>_<letter>]",
+    "note_letter": "chapter-order"
+  },
+  "upstream": [
+    {
+      "name": "Berean tables",
+      "url": "https://berean.bible/downloads/bsb_tables.tsv",
+      "path": "archive/bsb_tables.tsv",
+      "sha256": "d9abdcb05493c5f40369b0bdba864c3635ad33a47d1222035c0b638814f077b8",
+      "bytes": 85525373,
+      "note": "Hebrew and Aramaic wording, and the morphology rows."
+    },
+    {
+      "name": "Berean Greek Bible NT",
+      "url": "https://berean.bible/downloads/bgb.docx",
+      "path": "archive/bgb.docx",
+      "sha256": "56eb9ba026316e6d66d675a4f1812deae362d46244541b9071e937d77d21eac7",
+      "bytes": 814101,
+      "note": "Greek New Testament. Nestle 1904 base, before restored verses are applied."
+    }
+  ],
+  "archive": [
+    {
+      "path": "archive/bsb_tables.tsv",
+      "url": "https://berean.bible/downloads/bsb_tables.tsv",
+      "sha256": "d9abdcb05493c5f40369b0bdba864c3635ad33a47d1222035c0b638814f077b8",
+      "bytes": 85525373
+    },
+    {
+      "path": "archive/bgb.docx",
+      "url": "https://berean.bible/downloads/bgb.docx",
+      "sha256": "56eb9ba026316e6d66d675a4f1812deae362d46244541b9071e937d77d21eac7",
+      "bytes": 814101
+    }
+  ],
+  "prepared": [
+    {
+      "path": "prepared/hebrew-ot.md",
+      "from": "archive/bsb_tables.tsv",
+      "script": "pipeline/hebrew_tsv_to_markdown.py",
+      "sha256": "468320ba06a9220b0f7df3245d12477226142ecb130951636206d7e6373ae4b7",
+      "bytes": 6059661
+    },
+    {
+      "path": "prepared/greek-nt.md",
+      "from": "archive/bgb.docx",
+      "script": "pipeline/greek_docx_to_markdown.py",
+      "sha256": "834ee4f63edb3e9deeb28b301224d4ba56177a069f8f523a39800e8688014cd1",
+      "bytes": 2004847
+    }
+  ],
+  "extras": [
+    {
+      "id": "tables-original-order",
+      "path": "extra/tables-original-order.tsv",
+      "role": "morphology",
+      "media_type": "text/tab-separated-values",
+      "scope": "ot-nt",
+      "description": "Berean token and morphology rows in original-language order (Heb Sort, then Greek Sort, then BSB Sort). One row is one word. The header is Berean's own.",
+      "sha256": "f08b3f8a7ed9f6ee00cb64f14780c897a15f97314489026c7076ebf7ea75acfb",
+      "bytes": 84770721
+    }
+  ],
+  "pipeline": [
+    "python3 pipeline/fetch_archive.py",
+    "python3 pipeline/hebrew_tsv_to_markdown.py",
+    "python3 pipeline/reorder_tables.py",
+    "python3 pipeline/prepare_greek_docx.py",
+    "python3 pipeline/greek_docx_to_markdown.py",
+    "python3 pipeline/build_canon.py",
+    "python3 pipeline/verify.py",
+    "python3 pipeline/build_bible.py",
+    "python3 pipeline/build_bible.py --original",
+    "python3 pipeline/build_bible.py --testament ot",
+    "python3 pipeline/build_bible.py --testament nt",
+    "python3 pipeline/build_bible.py --original --testament ot",
+    "python3 pipeline/build_bible.py --original --testament nt"
+  ]
+}

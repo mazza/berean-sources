@@ -1,0 +1,6 @@
+id	heb_sort	action	from	to	evidence
+H001	478703	replace	הַיְמוֹנִי	הַיְמִינִי	WLC ketiv Ezekiel 4:6 is הימיני. The tables wrote vav for yod.
+H002	478703	replace	hay·mō·nī	hay·mī·nī	Transliteration of the corrected spelling.
+H003	343604	replace	יָּ֥גֶיל	יָּ֥גֶל	WLC qere of Psalm 21 is יָּ֥גֶל. The tables mixed the ketiv yod into that pointing.
+H004	343603	set_sort	343603	343604	WLC order is מה־יגל מאד. These two sort numbers are swapped.
+H005	343604	set_sort	343604	343603	Pair of H004. The verb precedes מאד, which keeps the sof pasuq.

@@ -1,0 +1,4 @@
+id	from	to	reason	evidence
+E001	ἀναπείρους	ἀναπήρους	digitization-typo	η written ει; sense “maimed” = ἀναπήρους (Luke 14:13,21). Nestle 1904 ἀναπήρους; LSJ ἀναπήρος. Not Berean apparatus choice.
+E002	[και ἐν ταῖς χερσὶν]	[καὶ ἐν ταῖς χερσὶν]	accent	Mark 16:18. The bracketed clause wrote unaccented και for καὶ.
+E003	αυτοφώρῳ	αὐτοφώρῳ	breathing	John 8:4. αυτοφώρῳ has no breathing. The other αὐτός forms in this text use upsilon with psili (U+1F50).
