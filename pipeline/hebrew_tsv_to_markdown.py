@@ -422,6 +422,20 @@ def main() -> int:
     converter = OTConverter(args.input)
     markdown = converter.convert()
 
+    from apply_ot_layout import apply_layout_text, load_layout, DEFAULT_LAYOUT
+
+    if not DEFAULT_LAYOUT.is_file():
+        print(f"Error: missing {DEFAULT_LAYOUT}", file=sys.stderr)
+        return 1
+    markdown, stats = apply_layout_text(markdown, load_layout(DEFAULT_LAYOUT))
+    if stats["word_errors"]:
+        print(f"Error: layout changed Hebrew words: {stats}", file=sys.stderr)
+        return 1
+    print(
+        "Layout: chapters {chapters} verses {verses} split {split} "
+        "missing {missing_layout}".format(**stats)
+    )
+
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(markdown, encoding="utf-8")
 

@@ -23,6 +23,7 @@ https://berean.bible/downloads/bsb_tables.tsv
   → pipeline/fetch_archive.py
   → archive/bsb_tables.tsv
        → pipeline/hebrew_tsv_to_markdown.py → prepared/hebrew-ot.md
+         (the script then calls apply_ot_layout, using pipeline/ot-layout.json)
        → pipeline/reorder_tables.py         → extra/tables-original-order.tsv
 
 https://berean.bible/downloads/bgb.docx

@@ -57,8 +57,8 @@
       "path": "prepared/hebrew-ot.md",
       "from": "archive/bsb_tables.tsv",
       "script": "pipeline/hebrew_tsv_to_markdown.py",
-      "sha256": "468320ba06a9220b0f7df3245d12477226142ecb130951636206d7e6373ae4b7",
-      "bytes": 6059661
+      "sha256": "13835988eb069d29a1080160aad870032c1d06694f195316c3d16cf3444b6c4d",
+      "bytes": 7193597
     },
     {
       "path": "prepared/greek-nt.md",

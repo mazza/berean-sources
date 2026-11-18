@@ -44,6 +44,8 @@ URL in manifest.json
 
 `prepared/` is the continuous Markdown between the download and the chapters. An edition that does not need that step publishes `"prepared": []` and skips it. `extra/` is not on this path: `build_bible.py` does not read it, and `--testament` does not split a file whose `scope` is `ot-nt`.
 
+The Hebrew file is flat when it leaves the tables. `apply_ot_layout.py` then gives it the same reading layout as the Greek: paragraph breaks, poetry (`>`, `&nbsp;`, `<br>`), name-lists, and letters quoted inside a narrative. The decisions are pinned in `pipeline/ot-layout.json`, one record per verse, taken from the line breaks of the VFE Old Testament. The script does not change a Hebrew or Aramaic word. `hebrew_tsv_to_markdown.py` calls it at the end, so a rebuild does not depend on editing `prepared/` or `canon/` by hand. To pin a new layout, run `python3 pipeline/apply_ot_layout.py --extract /path/to/vfe/canon`.
+
 ## Chapter file
 
 ```markdown
