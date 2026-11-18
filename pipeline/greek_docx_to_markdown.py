@@ -964,6 +964,9 @@ class BGBConverter:
         # After completeness: it still looks for U+0387, which NFC maps to U+00B7.
         result = nfc_outside_tags(result)
         result = apply_clause_punctuation(result)
+        from apply_nt_letters import apply as apply_nt_letters
+
+        result = apply_nt_letters(result)
         return result.strip() + "\n"
 
 

@@ -46,6 +46,8 @@ URL in manifest.json
 
 The Hebrew file is flat when it leaves the tables. `apply_ot_layout.py` then gives it the same reading layout as the Greek: paragraph breaks, poetry (`>`, `&nbsp;`, `<br>`), name-lists, and letters quoted inside a narrative. The decisions are pinned in `pipeline/ot-layout.json`, one record per verse, taken from the line breaks of the VFE Old Testament. The script does not change a Hebrew or Aramaic word. `hebrew_tsv_to_markdown.py` calls it at the end, so a rebuild does not depend on editing `prepared/` or `canon/` by hand. To pin a new layout, run `python3 pipeline/apply_ot_layout.py --extract /path/to/vfe/canon`.
 
+`apply_nt_letters.py` is the last Greek edit. It puts the two letters in Acts and the seven messages in Revelation 2–3 into one blockquote each, with the address outside the block. James 1 stays an ordinary epistle opening. The script does not change a Greek word. `greek_docx_to_markdown.py` calls it at the end.
+
 ## Chapter file
 
 ```markdown

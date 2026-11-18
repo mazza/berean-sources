@@ -33,7 +33,8 @@ https://berean.bible/downloads/bgb.docx
        → pipeline/greek_docx_to_markdown.py  → prepared/greek-nt.md
          (pipeline/errata.tsv, pipeline/critical_verses.tsv;
           the script calls apply_berean_errata, apply_verse_completeness,
-          and apply_protestant_coverage — they are not separate steps)
+          apply_protestant_coverage, and apply_nt_letters —
+          they are not separate steps)
 
 prepared/hebrew-ot.md + prepared/greek-nt.md
   → pipeline/build_canon.py → canon/NN-BBB/CC.md
